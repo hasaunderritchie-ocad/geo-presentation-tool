@@ -11,6 +11,7 @@
     "angular-animate": "*",
     "bootstrap": "*",
     "pubnub": "*",
+    "instascan": "*",
     "d3": "*"
   },
   "author": "",
