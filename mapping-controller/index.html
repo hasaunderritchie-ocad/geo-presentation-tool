@@ -1,100 +1,75 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Geo Projection Project</title>
+    <meta description="This project proveds a geo-mapping tool of open source big data. This project is done in conjunction with OCAD University, York University, and Empress DB" />
+
+    <!-- SCRIPTS -->
+      <!-- ANGULAR -->
+      <script src="node_modules/angular/angular.js"></script>
+      <!-- ADD-ONS -->
+      <script src="node_modules/angular-aria/angular-aria.js"></script>
+      <script src="node_modules/angular-animate/angular-animate.js"></script>
+      <script src="node_modules/angular-material/angular-material.js"></script>
+      <!-- APP.JS -->
+      <script src="app.js"></script>
+      <script src="node_modules/d3/build/d3.js"></script>
+      <!-- CSS -->
+      <link rel="stylesheet" href="node_modules/angular-material/angular-material.css" />
+  </head>
   <style>
-    /* Remove the navbar's default margin-bottom and rounded borders */
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
-
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px}
-
-    /* Set gray background color and 100% height */
-    .sidenav {
-      padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
-    }
-
-    /* Set black background color, white text and some padding */
-    footer {
-      background-color: #555;
-      color: white;
-      padding: 15px;
-    }
-
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 15px;
-      }
-      .row.content {height:auto;}
-    }
+  .muted{
+    color: #343439
+  }
   </style>
-</head>
-<body>
+  <body ng-app="mapApp">
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">Logo</a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
+    <div ng-controller="mainController">
+      <div flex-offset="10" flex="80" style="margin-top: 80px;">
+        <h1 class="muted">
+          {{title}}
+        </h1>
+        <hr />
+        <div layout="row">
+          <div flex="70">
+            <map-view></map-view>
+          </div>
+          <div flex="30">
+            <mini-view></mini-view>
+          </div>
+        </div>
 
-<div class="container-fluid text-center">
-  <div class="row content">
-    <div class="col-sm-2 sidenav">
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-    </div>
-    <div class="col-sm-8 text-left">
-      <h1>Welcome</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <hr>
-      <h3>Test</h3>
-      <p>Lorem ipsum...</p>
-    </div>
-    <div class="col-sm-2 sidenav">
-      <div class="well">
-        <p>ADS</p>
+        <div layout="row">
+          <div flex="70">
+
+            <timeline-view></timeline-view>
+          </div>
+          <div flex="30">
+            <control-view></control-view>
+          </div>
+        </div>
+
+
       </div>
-      <div class="well">
-        <p>ADS</p>
       </div>
+
+
     </div>
-  </div>
-</div>
 
-<footer class="container-fluid text-center">
-  <p>Footer Text</p>
-</footer>
 
-</body>
+
+<!-- controller -->
+<script src="modules/main.controller.js"></script>
+<script src="modules/map.controller.js"></script>
+<!-- Modules -->
+<script src="modules/d3.factories.js"></script>
+<!-- directive -->
+<script src="modules/controller/controlView.directive.js"></script>
+<script src="modules/map/mapView.directive.js"></script>
+<script src="modules/miniview/miniview.directive.js"></script>
+<script src="modules/timeline/timelineView.directive.js"></script>
+
+<!-- CONTROLLER -->
+  </body>
 </html>
