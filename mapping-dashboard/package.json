@@ -9,6 +9,9 @@
   "dependencies": {
     "angular": "*",
     "angular-animate": "*",
+    "angular-aria": "*",
+    "angular-messages": "*",
+    "angular-route": "*",
     "bootstrap": "*",
     "pubnub": "*",
     "instascan": "*",

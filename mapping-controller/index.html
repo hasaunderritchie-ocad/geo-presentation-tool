@@ -1,75 +1,87 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Geo Projection Project</title>
-    <meta description="This project proveds a geo-mapping tool of open source big data. This project is done in conjunction with OCAD University, York University, and Empress DB" />
 
-    <!-- SCRIPTS -->
-      <!-- ANGULAR -->
-      <script src="node_modules/angular/angular.js"></script>
-      <!-- ADD-ONS -->
-      <script src="node_modules/angular-aria/angular-aria.js"></script>
-      <script src="node_modules/angular-animate/angular-animate.js"></script>
-      <script src="node_modules/angular-material/angular-material.js"></script>
-      <!-- APP.JS -->
-      <script src="app.js"></script>
-      <script src="node_modules/d3/build/d3.js"></script>
-      <!-- CSS -->
-      <link rel="stylesheet" href="node_modules/angular-material/angular-material.css" />
-  </head>
-  <style>
-  .muted{
+<head>
+  <title>Geo Projection Project</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <meta description="This project proveds a geo-mapping tool of open source big data. This project is done in conjunction with OCAD University, York University, and Empress DB" />
+
+  <!-- SCRIPTS -->
+  <!-- BOOTSTRAP -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!-- ANGULAR -->
+  <script src="node_modules/angular/angular.js"></script>
+  <script src="node_modules/angular-aria/angular-aria.js"></script>
+  <script src="node_modules/angular-animate/angular-animate.js"></script>
+  <script src="node_modules/angular-messages/angular-messages.js"></script>
+  <script src="node_modules/angular-route/angular-route.js"></script>
+  <!-- D3 -->
+  <script src="node_modules/d3/build/d3.js"></script>
+  <script src="node_modules/d3-geo/build/d3-geo.js"></script>
+  <!-- pubnub -->
+  <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.17.0.js"></script>
+  <!-- APP.JS -->
+  <script src="index.js"></script>
+  <script src="modules/main.controller.js"></script>
+  <!-- CSS -->
+</head>
+<style>
+  .muted {
     color: #343439
   }
-  </style>
-  <body ng-app="mapApp">
+</style>
 
-    <div ng-controller="mainController">
-      <div flex-offset="10" flex="80" style="margin-top: 80px;">
-        <h1 class="muted">
-          {{title}}
-        </h1>
-        <hr />
-        <div layout="row">
-          <div flex="70">
+<body ng-app="myApp">
+
+  <div ng-controller="mainController">
+    <div class="container-fluid">
+      <div class="col-sm-12 col-sm-offset-0 col-md-offset-1 col-md-10">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="muted">
+                {{title}}
+              </h1>
+          </div>
+        </div>
+        <div class="row" style="margin-top: 80px;">
+          <hr />
+          <div class="col-sm-12 col-md-9">
             <map-view></map-view>
           </div>
-          <div flex="30">
+          <div class="col-md-3 hidden-xs hidden-sm">
             <mini-view></mini-view>
           </div>
         </div>
-
-        <div layout="row">
-          <div flex="70">
-
+        <div class="row">
+          <div class="col-md-12">
             <timeline-view></timeline-view>
           </div>
-          <div flex="30">
-            <control-view></control-view>
-          </div>
         </div>
-
-
       </div>
-      </div>
-
-
     </div>
+  </div>
 
 
 
-<!-- controller -->
-<script src="modules/main.controller.js"></script>
-<script src="modules/map.controller.js"></script>
-<!-- Modules -->
-<script src="modules/d3.factories.js"></script>
-<!-- directive -->
-<script src="modules/controller/controlView.directive.js"></script>
-<script src="modules/map/mapView.directive.js"></script>
-<script src="modules/miniview/miniview.directive.js"></script>
-<script src="modules/timeline/timelineView.directive.js"></script>
+  </div>
 
-<!-- CONTROLLER -->
-  </body>
+
+
+  <!-- controller -->
+  <script src="modules/main.controller.js"></script>
+  <script src="modules/map.controller.js"></script>
+  <!-- Modules -->
+  <script src="modules/d3.factories.js"></script>
+  <!-- directive -->
+  <script src="modules/controller/controlView.directive.js"></script>
+  <script src="modules/map/mapView.directive.js"></script>
+  <script src="modules/miniview/miniview.directive.js"></script>
+  <script src="modules/timeline/timelineView.directive.js"></script>
+
+  <!-- CONTROLLER -->
+</body>
+
 </html>
