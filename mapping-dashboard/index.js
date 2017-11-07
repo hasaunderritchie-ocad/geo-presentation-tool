@@ -1,4 +1,6 @@
 // this is my app
+// define the packages
+
 const app = angular.module('myApp', ['ngAria', 'ngAnimate', 'ngMessages', 'ngRoute']);
 
 

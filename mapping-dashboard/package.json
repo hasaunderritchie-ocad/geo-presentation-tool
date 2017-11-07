@@ -13,9 +13,10 @@
     "angular-messages": "*",
     "angular-route": "*",
     "bootstrap": "*",
+    "d3": "*",
+    "jsqrcode": "*",
     "pubnub": "*",
-    "instascan": "*",
-    "d3": "*"
+    "require": "^2.4.20"
   },
   "author": "",
   "license": "ISC"
