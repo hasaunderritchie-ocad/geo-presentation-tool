@@ -43,21 +43,13 @@
           <div class="col-md-12">
             <h1 class="muted">
                 {{title}}
-              </h1> 
+              </h1>
           </div>
         </div>
         <div class="row" style="margin-top: 80px;">
           <hr />
-          <div class="col-sm-12 col-md-9">
-            <map-view></map-view>
-          </div>
-          <div class="col-md-3 hidden-xs hidden-sm">
-            <mini-view></mini-view>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <timeline-view></timeline-view>
+          <div class="col-sm-offset-1 col-sm-10">
+            <ng-view></ng-view>
           </div>
         </div>
       </div>
@@ -65,6 +57,11 @@
   </div>
 
 
+  <!-- <div class="row">
+    <div class="col-md-12">
+      <timeline-view></timeline-view>
+    </div>
+  </div> -->
 
   </div>
 
@@ -74,7 +71,9 @@
   <script src="modules/main.controller.js"></script>
   <script src="modules/map.controller.js"></script>
   <!-- Modules -->
-  <script src="modules/d3.factories.js"></script>
+  <script src="factories/d3.factory.js"></script>
+  <script src="factories/pubnub.factory.js"></script>
+  <script src="factories/data.factory.js"></script>
   <!-- directive -->
   <script src="modules/controller/controlView.directive.js"></script>
   <script src="modules/map/mapView.directive.js"></script>
