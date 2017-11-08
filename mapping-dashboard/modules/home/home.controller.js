@@ -5,12 +5,16 @@ app.controller("homeController", function($scope, scanning, dataFetch){
   $scope.beginScanning = function(){
     $scope.scanning = true;
     console.log("clicked");
-    scan();
-  }
-  scan = function(){
     scanning.init();
+    scanning.beginScan(res=>{
+      console.log(res);
+    });
+    // dataFetch.give(response=>{
+    //   console.log("i got the response of " + response);
+    // });
   }
-  $scope.sayData = document.getElementById('result').innerHTML;
-  console.log($scope.sayData);
-  
+
+  // $scope.sayData = document.getElementById('result').innerHTML;
+  // console.log($scope.sayData);
+
 });
