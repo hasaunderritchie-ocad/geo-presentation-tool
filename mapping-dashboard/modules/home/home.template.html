@@ -10,7 +10,6 @@ Home Works!
       Prepare to scan the qr code, then click "Begin Scanning"
     </p>
     <button class="btn" ng-click="beginScanning()">Begin Scanning</button>
-      <button class="btn" ng-click="getSomeData()">Sample Data</button>
   </div>
 
   <div class="col-md-12">
@@ -18,6 +17,10 @@ Home Works!
 
     </video>
   </div>
-  <p id="result">
-  </p>
+  <div class="well">
+    <p>
+      {{ val }}
+    </p>
+    <button ng-click="checkVal()">Check Val</button>
+  </div>
 </div>

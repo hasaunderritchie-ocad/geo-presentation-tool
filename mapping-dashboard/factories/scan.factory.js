@@ -1,4 +1,4 @@
-app.factory('scanning',['dataFetch', function(dataFetch){
+app.factory('scanning',function(){
   let storeData;
   let scanner = new Instascan.Scanner({ video: document.getElementById('viewFinder') });
   return {
@@ -20,38 +20,10 @@ app.factory('scanning',['dataFetch', function(dataFetch){
           if(res){
             res(content)
           }
-          // return storeData = content
-          // dataFetch.fetch(content)
-          // document.getElementById('result').innerHTML = content
         } else {
           return "There is nothing!";
-          // document.getElementById('result').innerHTML = content
         }
       });
-      // if(res){
-      //   if(scan){
-      //     res(scan);
-      //   }
-      // }
-    }
-  }
-}])
-
-app.factory('dataFetch', function(){
-  var storeData;
-  return {
-    fetch: function(data){
-      console.log("fetch started with "+data);
-      if(data){
-        storeData = data;
-      }
-    },
-    give: function(callback){
-      if(storeData){
-        if(callback){
-          callback(storeData)
-        };
-      }
     }
   }
 })
