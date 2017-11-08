@@ -1,4 +1,5 @@
-app.controller("homeController", function($scope, scanning){
+app.controller("homeController", function($scope, scanning, pubnub){
+  pubnub.connect('testChannel')
   // my controller is here.
   $scope.scanning = false;
   $scope.hello = "hello world";
