@@ -28,11 +28,11 @@
 <body ng-app="myApp">
 <navbar-directive></navbar-directive>
 <div ng-controller="mainController" class="container-fluid text-center">
-  <div ng-if="state" class="col-xs-12">
+  <div ng-if="!state" class="col-xs-12">
     <ng-view></ng-view>
   </div>
 
-  <div ng-if="!state" class="col-xs-12">
+  <div ng-if="state" class="col-xs-12">
     <p>
       Welcome to the main site. Click below to decide what you want to do.
     </p>
@@ -50,5 +50,7 @@
   <script src="modules/scan/scan.controller.js"></script>
   <!-- directives -->
   <script src="modules/navbar/navbar.directive.js"></script>
+  <!-- factories -->
+  <script src="factories/scan.factory.js"></script>
 </body>
 </html>
