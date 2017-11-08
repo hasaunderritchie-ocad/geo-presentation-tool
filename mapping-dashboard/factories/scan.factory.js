@@ -24,6 +24,9 @@ app.factory('scanning',function(){
           return "There is nothing!";
         }
       });
+    },
+    stopScan: function(res){
+      scanner.stop()
     }
   }
 })

@@ -28,6 +28,7 @@ app.factory('pubnub', function() {
                 function(status) {
                   // handle state setting response
                   // to being cnnected
+                  console.log("I am connected to " + channel);
                 }
               );
             }
@@ -45,7 +46,7 @@ app.factory('pubnub', function() {
             channels:  [channel]
         });
       };
-    },
+    }
 
   }
 })

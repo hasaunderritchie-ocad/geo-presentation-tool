@@ -14,5 +14,8 @@ app.config(function($routeProvider) {
   }).when('/', {
     templateUrl: 'modules/home/home.template.html',
     controller: 'homeController'
+  }).when('/dashboard', {
+    templateUrl: 'modules/dash/dash.template.html',
+    controller: 'dashController'
   }).otherwise({redirectTo:'/'})
 });
