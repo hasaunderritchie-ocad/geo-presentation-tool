@@ -1,0 +1,6721 @@
+[{
+  "location": "Trinity-Bellwoods",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 15.66748682700563,
+  "avg $ per ft": 1551.8758036295867,
+  "tickets closed": 2,
+  "avg income": 142431
+}, {
+  "location": "Trinity-Bellwoods",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 66.5217630282975,
+  "avg $ per ft": 1181.7614525333602,
+  "tickets closed": 2,
+  "avg income": 288594
+}, {
+  "location": "Trinity-Bellwoods",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 41.105702403369506,
+  "avg $ per ft": 486.8841832393886,
+  "tickets closed": 5,
+  "avg income": 158309
+}, {
+  "location": "Trinity-Bellwoods",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 16.69640787244941,
+  "avg $ per ft": 772.2281171987586,
+  "tickets closed": 2,
+  "avg income": 282708
+}, {
+  "location": "Trinity-Bellwoods",
+  "year": 2016,
+  "open construction tickets": 2,
+  "avg square ft": 114.30910180210742,
+  "avg $ per ft": 927.584966534974,
+  "tickets closed": 5,
+  "avg income": 110212
+}, {
+  "location": "Trinity-Bellwoods",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 25.17797910139756,
+  "avg $ per ft": 1260.3629879338105,
+  "tickets closed": 3,
+  "avg income": 145162
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 22.047903792582115,
+  "avg $ per ft": 607.3162165883539,
+  "tickets closed": 2,
+  "avg income": 101012
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 121.40693612270651,
+  "avg $ per ft": 898.7277437214105,
+  "tickets closed": 0,
+  "avg income": 143385
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 23.768647547288957,
+  "avg $ per ft": 242.66196952938412,
+  "tickets closed": 4,
+  "avg income": 130064
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 84.94720674937201,
+  "avg $ per ft": 1704.1593294090778,
+  "tickets closed": 1,
+  "avg income": 164769
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 70.1014380051241,
+  "avg $ per ft": 198.94787184472108,
+  "tickets closed": 2,
+  "avg income": 146790
+}, {
+  "location": "West Humber-Clairville",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 122.60124358769028,
+  "avg $ per ft": 399.1051577620386,
+  "tickets closed": 5,
+  "avg income": 284286
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 77.86309551244486,
+  "avg $ per ft": 661.2685232545718,
+  "tickets closed": 1,
+  "avg income": 164091
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 111.32700429517504,
+  "avg $ per ft": 374.959307274265,
+  "tickets closed": 4,
+  "avg income": 160873
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 129.23888935405563,
+  "avg $ per ft": 1293.6732844492365,
+  "tickets closed": 2,
+  "avg income": 277166
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 39.117205038533015,
+  "avg $ per ft": 95.04173325458987,
+  "tickets closed": 2,
+  "avg income": 251572
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2016,
+  "open construction tickets": 5,
+  "avg square ft": 125.95487016743618,
+  "avg $ per ft": 158.67508474111625,
+  "tickets closed": 1,
+  "avg income": 212958
+}, {
+  "location": "Mount Olive-Silverstone-Jamestown",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 128.0150891047134,
+  "avg $ per ft": 1278.9629597078165,
+  "tickets closed": 5,
+  "avg income": 223232
+}, {
+  "location": "Humber Summit",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 103.38553201275894,
+  "avg $ per ft": 371.28826499086955,
+  "tickets closed": 4,
+  "avg income": 97606
+}, {
+  "location": "Humber Summit",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 44.86855132815844,
+  "avg $ per ft": 1443.0919971219537,
+  "tickets closed": 1,
+  "avg income": 231572
+}, {
+  "location": "Humber Summit",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 112.413863788398,
+  "avg $ per ft": 706.4253630996782,
+  "tickets closed": 3,
+  "avg income": 93549
+}, {
+  "location": "Humber Summit",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 57.5637096678978,
+  "avg $ per ft": 1660.750427852262,
+  "tickets closed": 3,
+  "avg income": 252835
+}, {
+  "location": "Humber Summit",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 43.53366206629248,
+  "avg $ per ft": 85.45716959576599,
+  "tickets closed": 5,
+  "avg income": 181869
+}, {
+  "location": "Humber Summit",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 56.58937157623399,
+  "avg $ per ft": 56.00796084838811,
+  "tickets closed": 1,
+  "avg income": 147271
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 89.73021276294564,
+  "avg $ per ft": 1838.623257418366,
+  "tickets closed": 1,
+  "avg income": 154004
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 68.70035569174688,
+  "avg $ per ft": 1038.633463645814,
+  "tickets closed": 1,
+  "avg income": 218490
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 63.16277885429693,
+  "avg $ per ft": 1132.775151143648,
+  "tickets closed": 2,
+  "avg income": 80805
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 81.72877592400019,
+  "avg $ per ft": 204.8869256231991,
+  "tickets closed": 3,
+  "avg income": 141774
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 85.43810194240304,
+  "avg $ per ft": 453.8697740366486,
+  "tickets closed": 5,
+  "avg income": 133240
+}, {
+  "location": "Thistletown-Beaumond Heights",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 84.5852182514293,
+  "avg $ per ft": 256.15272911606814,
+  "tickets closed": 5,
+  "avg income": 261044
+}, {
+  "location": "Humbermede",
+  "year": 2012,
+  "open construction tickets": 3,
+  "avg square ft": 27.510950436950118,
+  "avg $ per ft": 65.56700208849287,
+  "tickets closed": 0,
+  "avg income": 226369
+}, {
+  "location": "Humbermede",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 126.99358524603863,
+  "avg $ per ft": 1897.8918816729172,
+  "tickets closed": 1,
+  "avg income": 81658
+}, {
+  "location": "Humbermede",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 4.665494439416708,
+  "avg $ per ft": 988.8829942415948,
+  "tickets closed": 5,
+  "avg income": 176076
+}, {
+  "location": "Humbermede",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 86.72278639449668,
+  "avg $ per ft": 530.7697166921026,
+  "tickets closed": 4,
+  "avg income": 137420
+}, {
+  "location": "Humbermede",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 18.12223992022679,
+  "avg $ per ft": 1798.3463523211524,
+  "tickets closed": 5,
+  "avg income": 269173
+}, {
+  "location": "Humbermede",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 80.2944298171096,
+  "avg $ per ft": 117.45080954075671,
+  "tickets closed": 1,
+  "avg income": 233444
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 63.54270832648075,
+  "avg $ per ft": 1312.872580281445,
+  "tickets closed": 4,
+  "avg income": 165766
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 85.7313464238124,
+  "avg $ per ft": 239.87855773987633,
+  "tickets closed": 2,
+  "avg income": 146350
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 75.19885051115867,
+  "avg $ per ft": 1966.575326581832,
+  "tickets closed": 0,
+  "avg income": 98646
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 103.33367774083614,
+  "avg $ per ft": 968.9573156430296,
+  "tickets closed": 2,
+  "avg income": 219423
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 44.3450660643852,
+  "avg $ per ft": 637.160564577258,
+  "tickets closed": 1,
+  "avg income": 277915
+}, {
+  "location": "Rexdale-Kipling",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 16.348297764263943,
+  "avg $ per ft": 1654.8837782891294,
+  "tickets closed": 4,
+  "avg income": 221635
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2012,
+  "open construction tickets": 15,
+  "avg square ft": 65.62846527955232,
+  "avg $ per ft": 738.236743949092,
+  "tickets closed": 0,
+  "avg income": 270961
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 36.74154020938063,
+  "avg $ per ft": 465.79403399046606,
+  "tickets closed": 4,
+  "avg income": 71733
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 99.37952075386451,
+  "avg $ per ft": 363.99284424263834,
+  "tickets closed": 4,
+  "avg income": 215532
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 66.51947579238873,
+  "avg $ per ft": 1414.3772095024435,
+  "tickets closed": 0,
+  "avg income": 181662
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 125.76528455963384,
+  "avg $ per ft": 1952.298404735719,
+  "tickets closed": 1,
+  "avg income": 249566
+}, {
+  "location": "Elms-Old Rexdale",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 126.79782161478815,
+  "avg $ per ft": 1719.7889882284878,
+  "tickets closed": 2,
+  "avg income": 186254
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 75.91147109242611,
+  "avg $ per ft": 128.52505220944545,
+  "tickets closed": 3,
+  "avg income": 70773
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 127.34912308980253,
+  "avg $ per ft": 1135.7679824929141,
+  "tickets closed": 0,
+  "avg income": 284781
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 9.17320750100364,
+  "avg $ per ft": 425.50552987456246,
+  "tickets closed": 5,
+  "avg income": 282015
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 39.47121244557392,
+  "avg $ per ft": 1414.2385998732384,
+  "tickets closed": 0,
+  "avg income": 145434
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 115.71973599631394,
+  "avg $ per ft": 64.982506271281,
+  "tickets closed": 3,
+  "avg income": 110794
+}, {
+  "location": "Pelmo Park-Humberlea",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 11.65398385895248,
+  "avg $ per ft": 703.417368678239,
+  "tickets closed": 2,
+  "avg income": 144941
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 81.08194413636329,
+  "avg $ per ft": 1908.7381330720848,
+  "tickets closed": 3,
+  "avg income": 283197
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2013,
+  "open construction tickets": 11,
+  "avg square ft": 58.741027352607496,
+  "avg $ per ft": 1411.127624604183,
+  "tickets closed": 2,
+  "avg income": 79162
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 36.85202309115987,
+  "avg $ per ft": 108.75470319252511,
+  "tickets closed": 2,
+  "avg income": 283531
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 114.44715423364227,
+  "avg $ per ft": 1659.1698204743354,
+  "tickets closed": 1,
+  "avg income": 78694
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 69.4910532071895,
+  "avg $ per ft": 1996.013568495325,
+  "tickets closed": 4,
+  "avg income": 92332
+}, {
+  "location": "Downsview-Roding-CFB",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 104.66043649975546,
+  "avg $ per ft": 1989.5710656945753,
+  "tickets closed": 0,
+  "avg income": 160432
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 124.7783393603453,
+  "avg $ per ft": 553.1776737271954,
+  "tickets closed": 1,
+  "avg income": 127333
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2013,
+  "open construction tickets": 11,
+  "avg square ft": 14.980940585669035,
+  "avg $ per ft": 674.3851883824692,
+  "tickets closed": 4,
+  "avg income": 140000
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 88.6855732156886,
+  "avg $ per ft": 257.453127726919,
+  "tickets closed": 2,
+  "avg income": 275036
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 59.47530142707283,
+  "avg $ per ft": 57.61192483552402,
+  "tickets closed": 5,
+  "avg income": 89787
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 123.9587894771998,
+  "avg $ per ft": 754.8297579483678,
+  "tickets closed": 0,
+  "avg income": 262862
+}, {
+  "location": "Kingsview Village-The Westway",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 97.7413657762304,
+  "avg $ per ft": 464.6012853552035,
+  "tickets closed": 0,
+  "avg income": 237810
+}, {
+  "location": "Weston",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 33.23250665156492,
+  "avg $ per ft": 1581.3802359239178,
+  "tickets closed": 4,
+  "avg income": 200623
+}, {
+  "location": "Weston",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 127.48589640217571,
+  "avg $ per ft": 708.3086698410273,
+  "tickets closed": 2,
+  "avg income": 178924
+}, {
+  "location": "Weston",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 42.65221702012866,
+  "avg $ per ft": 1254.4435317933971,
+  "tickets closed": 4,
+  "avg income": 91557
+}, {
+  "location": "Weston",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 107.43789177390643,
+  "avg $ per ft": 405.3444835580082,
+  "tickets closed": 2,
+  "avg income": 190774
+}, {
+  "location": "Weston",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 9.931088588612756,
+  "avg $ per ft": 1763.3413456109006,
+  "tickets closed": 4,
+  "avg income": 140292
+}, {
+  "location": "Weston",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 115.21040082919247,
+  "avg $ per ft": 121.02511335475641,
+  "tickets closed": 3,
+  "avg income": 126221
+}, {
+  "location": "Rustic",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 30.69157867121386,
+  "avg $ per ft": 696.9071493947365,
+  "tickets closed": 2,
+  "avg income": 136806
+}, {
+  "location": "Rustic",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 16.316615428573634,
+  "avg $ per ft": 635.715832210571,
+  "tickets closed": 5,
+  "avg income": 161148
+}, {
+  "location": "Rustic",
+  "year": 2014,
+  "open construction tickets": 10,
+  "avg square ft": 66.66952163660271,
+  "avg $ per ft": 1912.5478806755277,
+  "tickets closed": 0,
+  "avg income": 260427
+}, {
+  "location": "Rustic",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 32.9619335364332,
+  "avg $ per ft": 508.99659139761866,
+  "tickets closed": 4,
+  "avg income": 267154
+}, {
+  "location": "Rustic",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 18.84432551963763,
+  "avg $ per ft": 427.6611243825825,
+  "tickets closed": 4,
+  "avg income": 130019
+}, {
+  "location": "Rustic",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 10.805598576405805,
+  "avg $ per ft": 1986.6886259943772,
+  "tickets closed": 3,
+  "avg income": 175761
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 91.19442564024554,
+  "avg $ per ft": 1062.3176841157683,
+  "tickets closed": 0,
+  "avg income": 276929
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 88.77893508541362,
+  "avg $ per ft": 97.89859904832431,
+  "tickets closed": 2,
+  "avg income": 230285
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 102.01444528179191,
+  "avg $ per ft": 223.63319140909033,
+  "tickets closed": 4,
+  "avg income": 220640
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 81.59089630416055,
+  "avg $ per ft": 1119.3769313686275,
+  "tickets closed": 1,
+  "avg income": 219738
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 49.51851691522456,
+  "avg $ per ft": 275.26511904479213,
+  "tickets closed": 2,
+  "avg income": 164780
+}, {
+  "location": "Humber Heights-Westmount",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 6.240956953683684,
+  "avg $ per ft": 1763.9130849807973,
+  "tickets closed": 1,
+  "avg income": 259392
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 128.01032769298453,
+  "avg $ per ft": 272.8700477363186,
+  "tickets closed": 4,
+  "avg income": 258188
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 76.16400728957511,
+  "avg $ per ft": 1848.8764434039012,
+  "tickets closed": 0,
+  "avg income": 126922
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 126.02125378125874,
+  "avg $ per ft": 1462.9725340561165,
+  "tickets closed": 3,
+  "avg income": 108934
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 4.885744738386574,
+  "avg $ per ft": 936.5701778076378,
+  "tickets closed": 0,
+  "avg income": 177756
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2016,
+  "open construction tickets": 15,
+  "avg square ft": 79.09810285647818,
+  "avg $ per ft": 1501.9255715900736,
+  "tickets closed": 3,
+  "avg income": 111563
+}, {
+  "location": "Brookhaven-Amesbury",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 80.8844011386383,
+  "avg $ per ft": 925.3656323333905,
+  "tickets closed": 0,
+  "avg income": 261995
+}, {
+  "location": "Mount Dennis",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 103.75012586956575,
+  "avg $ per ft": 1389.222092582347,
+  "tickets closed": 3,
+  "avg income": 288817
+}, {
+  "location": "Mount Dennis",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 48.19970234385115,
+  "avg $ per ft": 868.4041469740305,
+  "tickets closed": 4,
+  "avg income": 139539
+}, {
+  "location": "Mount Dennis",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 46.96843352812764,
+  "avg $ per ft": 944.3280647004752,
+  "tickets closed": 0,
+  "avg income": 105750
+}, {
+  "location": "Mount Dennis",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 33.288352547955085,
+  "avg $ per ft": 0.8484083265800635,
+  "tickets closed": 1,
+  "avg income": 158367
+}, {
+  "location": "Mount Dennis",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 112.31708161155612,
+  "avg $ per ft": 1310.2103175995826,
+  "tickets closed": 5,
+  "avg income": 125836
+}, {
+  "location": "Mount Dennis",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 64.43525190032605,
+  "avg $ per ft": 1600.301571424228,
+  "tickets closed": 1,
+  "avg income": 148330
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 4.803301682055378,
+  "avg $ per ft": 1322.6003357221007,
+  "tickets closed": 2,
+  "avg income": 254938
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 118.81547646233992,
+  "avg $ per ft": 1639.1492962985571,
+  "tickets closed": 5,
+  "avg income": 196119
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 82.83203724938137,
+  "avg $ per ft": 1672.011465874922,
+  "tickets closed": 2,
+  "avg income": 280004
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 28.22844243793043,
+  "avg $ per ft": 753.174872592179,
+  "tickets closed": 3,
+  "avg income": 105551
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 65.64339394987942,
+  "avg $ per ft": 148.09877845581053,
+  "tickets closed": 5,
+  "avg income": 102173
+}, {
+  "location": "Willowridge-Martingrove-Richview",
+  "year": 2017,
+  "open construction tickets": 8,
+  "avg square ft": 127.1909848098175,
+  "avg $ per ft": 1059.523764774707,
+  "tickets closed": 0,
+  "avg income": 75488
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 112.3791095122328,
+  "avg $ per ft": 1958.606126320927,
+  "tickets closed": 2,
+  "avg income": 123643
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 62.420624896180705,
+  "avg $ per ft": 722.8329180395176,
+  "tickets closed": 3,
+  "avg income": 70905
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 98.9261810342687,
+  "avg $ per ft": 1459.8743759297797,
+  "tickets closed": 0,
+  "avg income": 266736
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 46.580588222436084,
+  "avg $ per ft": 1783.7047111900556,
+  "tickets closed": 4,
+  "avg income": 245288
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 127.6823349454188,
+  "avg $ per ft": 1043.2703566539203,
+  "tickets closed": 3,
+  "avg income": 193590
+}, {
+  "location": "Princess-Rosethorn",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 81.0167740334503,
+  "avg $ per ft": 1230.1075354432164,
+  "tickets closed": 2,
+  "avg income": 251960
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2012,
+  "open construction tickets": 9,
+  "avg square ft": 91.29508789914104,
+  "avg $ per ft": 615.1103009592545,
+  "tickets closed": 4,
+  "avg income": 139101
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 41.05228511645149,
+  "avg $ per ft": 130.95549627252035,
+  "tickets closed": 2,
+  "avg income": 232551
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 95.4006308144997,
+  "avg $ per ft": 124.11265939666438,
+  "tickets closed": 2,
+  "avg income": 264036
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 97.50642257698878,
+  "avg $ per ft": 1577.342595194168,
+  "tickets closed": 2,
+  "avg income": 144047
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 58.53166995712399,
+  "avg $ per ft": 258.5044338433977,
+  "tickets closed": 4,
+  "avg income": 84455
+}, {
+  "location": "Eringate-Centennial-West Deane",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 16.932530766877996,
+  "avg $ per ft": 1891.4654256241072,
+  "tickets closed": 2,
+  "avg income": 79999
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 90.63406226176117,
+  "avg $ per ft": 533.9932974585669,
+  "tickets closed": 0,
+  "avg income": 72038
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 31.63910823588378,
+  "avg $ per ft": 1491.5478611104859,
+  "tickets closed": 4,
+  "avg income": 166530
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 75.76392109281993,
+  "avg $ per ft": 399.131235797789,
+  "tickets closed": 0,
+  "avg income": 103397
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 75.59220463534534,
+  "avg $ per ft": 539.9353453299267,
+  "tickets closed": 2,
+  "avg income": 240862
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 124.07044186773462,
+  "avg $ per ft": 1082.646378570326,
+  "tickets closed": 2,
+  "avg income": 180032
+}, {
+  "location": "Edenbridge-Humber Valley",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 43.410233251817665,
+  "avg $ per ft": 1948.7602220902488,
+  "tickets closed": 1,
+  "avg income": 95328
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 51.37313718226253,
+  "avg $ per ft": 1634.3672713477458,
+  "tickets closed": 3,
+  "avg income": 255686
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 111.91331546744783,
+  "avg $ per ft": 121.88960293557693,
+  "tickets closed": 2,
+  "avg income": 152497
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 43.728093379136425,
+  "avg $ per ft": 1187.2868677528847,
+  "tickets closed": 2,
+  "avg income": 181258
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 94.08506554543675,
+  "avg $ per ft": 1470.671007044913,
+  "tickets closed": 5,
+  "avg income": 255162
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 71.93980755738544,
+  "avg $ per ft": 837.775408666112,
+  "tickets closed": 2,
+  "avg income": 212842
+}, {
+  "location": "Rockcliffe-Smythe",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 122.2939526845457,
+  "avg $ per ft": 999.1297283602482,
+  "tickets closed": 2,
+  "avg income": 135166
+}, {
+  "location": "Markland Woods",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 51.8676996221133,
+  "avg $ per ft": 410.83503951695644,
+  "tickets closed": 0,
+  "avg income": 129764
+}, {
+  "location": "Markland Woods",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 112.53005952619132,
+  "avg $ per ft": 1321.9993370262493,
+  "tickets closed": 5,
+  "avg income": 89245
+}, {
+  "location": "Markland Woods",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 114.0101011704857,
+  "avg $ per ft": 289.7842327870186,
+  "tickets closed": 3,
+  "avg income": 258114
+}, {
+  "location": "Markland Woods",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 57.56471002365819,
+  "avg $ per ft": 653.1707512898568,
+  "tickets closed": 0,
+  "avg income": 177773
+}, {
+  "location": "Markland Woods",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 126.47258808226238,
+  "avg $ per ft": 1466.358308901502,
+  "tickets closed": 3,
+  "avg income": 247109
+}, {
+  "location": "Markland Woods",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 15.165002271521766,
+  "avg $ per ft": 1305.867854392551,
+  "tickets closed": 2,
+  "avg income": 154384
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 112.38213951019108,
+  "avg $ per ft": 356.246572099844,
+  "tickets closed": 1,
+  "avg income": 81738
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 32.931145198217244,
+  "avg $ per ft": 553.4499679821043,
+  "tickets closed": 1,
+  "avg income": 238645
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 92.00977197831696,
+  "avg $ per ft": 1870.7896052202673,
+  "tickets closed": 1,
+  "avg income": 198375
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 41.85534466443417,
+  "avg $ per ft": 71.13542621961378,
+  "tickets closed": 5,
+  "avg income": 196761
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 69.07201537797945,
+  "avg $ per ft": 1538.2691612348058,
+  "tickets closed": 5,
+  "avg income": 70856
+}, {
+  "location": "Etobicoke West Mall",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 92.85800677440182,
+  "avg $ per ft": 53.21320550192521,
+  "tickets closed": 3,
+  "avg income": 156329
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 125.29707535144176,
+  "avg $ per ft": 509.04715991919613,
+  "tickets closed": 1,
+  "avg income": 260252
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 76.76148668582445,
+  "avg $ per ft": 889.4044781149033,
+  "tickets closed": 2,
+  "avg income": 90009
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 49.08409673138524,
+  "avg $ per ft": 1663.1787919857786,
+  "tickets closed": 2,
+  "avg income": 135986
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 67.70948352486374,
+  "avg $ per ft": 1783.6670700755233,
+  "tickets closed": 1,
+  "avg income": 262355
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 100.97857047964335,
+  "avg $ per ft": 414.2413967014291,
+  "tickets closed": 3,
+  "avg income": 140287
+}, {
+  "location": "Islington-City Centre West",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 82.99549896587864,
+  "avg $ per ft": 949.7094285624812,
+  "tickets closed": 4,
+  "avg income": 173185
+}, {
+  "location": "Alderwood",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 91.58864607720682,
+  "avg $ per ft": 194.62578031796386,
+  "tickets closed": 2,
+  "avg income": 94912
+}, {
+  "location": "Alderwood",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 99.56167558937878,
+  "avg $ per ft": 1411.2065772350968,
+  "tickets closed": 5,
+  "avg income": 187993
+}, {
+  "location": "Alderwood",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 114.75080510132564,
+  "avg $ per ft": 101.93762213815849,
+  "tickets closed": 4,
+  "avg income": 88075
+}, {
+  "location": "Alderwood",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 95.8655750966106,
+  "avg $ per ft": 379.3626253324109,
+  "tickets closed": 5,
+  "avg income": 119871
+}, {
+  "location": "Alderwood",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 17.140211707889705,
+  "avg $ per ft": 1301.8821253230228,
+  "tickets closed": 0,
+  "avg income": 90187
+}, {
+  "location": "Alderwood",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 103.04256939064165,
+  "avg $ per ft": 1339.735587469129,
+  "tickets closed": 4,
+  "avg income": 126686
+}, {
+  "location": "Long Branch",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 72.64057237489271,
+  "avg $ per ft": 1103.1970508970671,
+  "tickets closed": 0,
+  "avg income": 189770
+}, {
+  "location": "Long Branch",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 61.020567100725444,
+  "avg $ per ft": 1239.35136488124,
+  "tickets closed": 4,
+  "avg income": 286628
+}, {
+  "location": "Long Branch",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 6.54907416853595,
+  "avg $ per ft": 949.6072908642053,
+  "tickets closed": 4,
+  "avg income": 73873
+}, {
+  "location": "Long Branch",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 42.20490032588812,
+  "avg $ per ft": 132.31155076297662,
+  "tickets closed": 1,
+  "avg income": 216464
+}, {
+  "location": "Long Branch",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 17.685319931851716,
+  "avg $ per ft": 1857.3716716011393,
+  "tickets closed": 4,
+  "avg income": 230755
+}, {
+  "location": "Long Branch",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 67.7895868695258,
+  "avg $ per ft": 740.4786265880394,
+  "tickets closed": 5,
+  "avg income": 203938
+}, {
+  "location": "New Toronto",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 64.23520743154666,
+  "avg $ per ft": 1266.7744484306668,
+  "tickets closed": 0,
+  "avg income": 182138
+}, {
+  "location": "New Toronto",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 81.54682584723592,
+  "avg $ per ft": 749.9775621187183,
+  "tickets closed": 1,
+  "avg income": 166470
+}, {
+  "location": "New Toronto",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 108.29441610480939,
+  "avg $ per ft": 456.9439845866434,
+  "tickets closed": 2,
+  "avg income": 83051
+}, {
+  "location": "New Toronto",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 101.6212339896007,
+  "avg $ per ft": 1189.1590007816778,
+  "tickets closed": 1,
+  "avg income": 244207
+}, {
+  "location": "New Toronto",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 1.0101470996846174,
+  "avg $ per ft": 74.87218940200746,
+  "tickets closed": 5,
+  "avg income": 225061
+}, {
+  "location": "New Toronto",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 69.7508219937941,
+  "avg $ per ft": 136.76193575516103,
+  "tickets closed": 1,
+  "avg income": 200065
+}, {
+  "location": "Mimico",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 56.19286015351909,
+  "avg $ per ft": 337.0520935632169,
+  "tickets closed": 2,
+  "avg income": 284646
+}, {
+  "location": "Mimico",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 31.055920463333443,
+  "avg $ per ft": 1690.5486448187974,
+  "tickets closed": 5,
+  "avg income": 195995
+}, {
+  "location": "Mimico",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 124.20904002175122,
+  "avg $ per ft": 1738.7370806446265,
+  "tickets closed": 1,
+  "avg income": 223285
+}, {
+  "location": "Mimico",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 16.994042676020744,
+  "avg $ per ft": 767.8757143188631,
+  "tickets closed": 5,
+  "avg income": 154931
+}, {
+  "location": "Mimico",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 96.96667965337522,
+  "avg $ per ft": 1498.653578217518,
+  "tickets closed": 2,
+  "avg income": 186458
+}, {
+  "location": "Mimico",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 48.89872869106945,
+  "avg $ per ft": 1767.6109648130314,
+  "tickets closed": 0,
+  "avg income": 125843
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 78.1450506703378,
+  "avg $ per ft": 545.5717829303375,
+  "tickets closed": 5,
+  "avg income": 116542
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 121.20230450741525,
+  "avg $ per ft": 1278.5580706763506,
+  "tickets closed": 2,
+  "avg income": 248248
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 67.57562004511524,
+  "avg $ per ft": 1558.2572382022754,
+  "tickets closed": 1,
+  "avg income": 264590
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 78.15627082726333,
+  "avg $ per ft": 126.34597861945652,
+  "tickets closed": 4,
+  "avg income": 254024
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 53.52975968206479,
+  "avg $ per ft": 1892.489967315092,
+  "tickets closed": 3,
+  "avg income": 267687
+}, {
+  "location": "Stonegate-Queensway",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 10.306411323080551,
+  "avg $ per ft": 199.3049044720605,
+  "tickets closed": 4,
+  "avg income": 259927
+}, {
+  "location": "Kingsway South",
+  "year": 2012,
+  "open construction tickets": 3,
+  "avg square ft": 46.248186324567854,
+  "avg $ per ft": 1032.619764568062,
+  "tickets closed": 3,
+  "avg income": 233302
+}, {
+  "location": "Kingsway South",
+  "year": 2013,
+  "open construction tickets": 8,
+  "avg square ft": 50.873618085788664,
+  "avg $ per ft": 1999.2148162313313,
+  "tickets closed": 0,
+  "avg income": 112346
+}, {
+  "location": "Kingsway South",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 4.836629680947318,
+  "avg $ per ft": 1801.7863294426713,
+  "tickets closed": 1,
+  "avg income": 104619
+}, {
+  "location": "Kingsway South",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 73.81326903427536,
+  "avg $ per ft": 1595.5079929366425,
+  "tickets closed": 2,
+  "avg income": 255060
+}, {
+  "location": "Kingsway South",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 83.53909225825592,
+  "avg $ per ft": 1437.4437074216087,
+  "tickets closed": 3,
+  "avg income": 137319
+}, {
+  "location": "Kingsway South",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 40.292852351273794,
+  "avg $ per ft": 90.11191018116827,
+  "tickets closed": 0,
+  "avg income": 182143
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2012,
+  "open construction tickets": 3,
+  "avg square ft": 128.69766887725697,
+  "avg $ per ft": 1600.4554854317619,
+  "tickets closed": 2,
+  "avg income": 150111
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2013,
+  "open construction tickets": 1,
+  "avg square ft": 17.111358310425867,
+  "avg $ per ft": 1238.299342504974,
+  "tickets closed": 1,
+  "avg income": 204632
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2014,
+  "open construction tickets": 10,
+  "avg square ft": 125.89681482460824,
+  "avg $ per ft": 1052.8372604067135,
+  "tickets closed": 3,
+  "avg income": 275889
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 99.32138826351917,
+  "avg $ per ft": 1354.6499475662247,
+  "tickets closed": 1,
+  "avg income": 115946
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 102.41530152002608,
+  "avg $ per ft": 345.062359010569,
+  "tickets closed": 4,
+  "avg income": 214848
+}, {
+  "location": "Lambton Baby Point",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 54.06670884676923,
+  "avg $ per ft": 1949.1747884204008,
+  "tickets closed": 4,
+  "avg income": 197885
+}, {
+  "location": "High Park-Swansea",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 66.67787539038078,
+  "avg $ per ft": 1303.351021102558,
+  "tickets closed": 2,
+  "avg income": 208947
+}, {
+  "location": "High Park-Swansea",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 122.24137835352329,
+  "avg $ per ft": 525.0554466181368,
+  "tickets closed": 5,
+  "avg income": 164592
+}, {
+  "location": "High Park-Swansea",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 111.78756719006033,
+  "avg $ per ft": 1831.9008410133988,
+  "tickets closed": 2,
+  "avg income": 137078
+}, {
+  "location": "High Park-Swansea",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 32.13389038973308,
+  "avg $ per ft": 1301.4741510153628,
+  "tickets closed": 3,
+  "avg income": 101218
+}, {
+  "location": "High Park-Swansea",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 74.44046843409895,
+  "avg $ per ft": 228.86768826859915,
+  "tickets closed": 3,
+  "avg income": 187739
+}, {
+  "location": "High Park-Swansea",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 2.149919766403521,
+  "avg $ per ft": 1230.4773759305942,
+  "tickets closed": 4,
+  "avg income": 131061
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 105.56422983451726,
+  "avg $ per ft": 1324.4981829251951,
+  "tickets closed": 5,
+  "avg income": 252230
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 62.08957741845231,
+  "avg $ per ft": 404.09205150031124,
+  "tickets closed": 2,
+  "avg income": 170249
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2014,
+  "open construction tickets": 10,
+  "avg square ft": 62.5257998325241,
+  "avg $ per ft": 730.6600166998163,
+  "tickets closed": 1,
+  "avg income": 91167
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 107.01678506255605,
+  "avg $ per ft": 472.0927401356898,
+  "tickets closed": 1,
+  "avg income": 268316
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 110.3906789807899,
+  "avg $ per ft": 1901.3635043218198,
+  "tickets closed": 2,
+  "avg income": 145262
+}, {
+  "location": "Runnymede-Bloor West Village",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 28.401142457908232,
+  "avg $ per ft": 1934.716135952061,
+  "tickets closed": 2,
+  "avg income": 104879
+}, {
+  "location": "High Park North",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 88.08096502284656,
+  "avg $ per ft": 1717.0179870058978,
+  "tickets closed": 3,
+  "avg income": 147442
+}, {
+  "location": "High Park North",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 117.23290527228029,
+  "avg $ per ft": 901.7732815951571,
+  "tickets closed": 1,
+  "avg income": 211303
+}, {
+  "location": "High Park North",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 69.43547656907855,
+  "avg $ per ft": 296.18161368091876,
+  "tickets closed": 2,
+  "avg income": 127427
+}, {
+  "location": "High Park North",
+  "year": 2015,
+  "open construction tickets": 11,
+  "avg square ft": 19.237464401544443,
+  "avg $ per ft": 768.7186513430375,
+  "tickets closed": 5,
+  "avg income": 98203
+}, {
+  "location": "High Park North",
+  "year": 2016,
+  "open construction tickets": 15,
+  "avg square ft": 0.9039235259877065,
+  "avg $ per ft": 419.3263934089953,
+  "tickets closed": 0,
+  "avg income": 261549
+}, {
+  "location": "High Park North",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 69.9705239381007,
+  "avg $ per ft": 285.66473198207507,
+  "tickets closed": 5,
+  "avg income": 76797
+}, {
+  "location": "Junction Area",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 75.27299492411086,
+  "avg $ per ft": 935.5401377813437,
+  "tickets closed": 5,
+  "avg income": 257245
+}, {
+  "location": "Junction Area",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 124.26557048915564,
+  "avg $ per ft": 396.2805031864565,
+  "tickets closed": 0,
+  "avg income": 283173
+}, {
+  "location": "Junction Area",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 74.200512044339,
+  "avg $ per ft": 959.0120971573431,
+  "tickets closed": 0,
+  "avg income": 179304
+}, {
+  "location": "Junction Area",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 75.72121295674035,
+  "avg $ per ft": 1223.3664655450552,
+  "tickets closed": 0,
+  "avg income": 246918
+}, {
+  "location": "Junction Area",
+  "year": 2016,
+  "open construction tickets": 2,
+  "avg square ft": 25.435851358593318,
+  "avg $ per ft": 292.3928087012904,
+  "tickets closed": 3,
+  "avg income": 270052
+}, {
+  "location": "Junction Area",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 101.13602214413798,
+  "avg $ per ft": 689.2883291325895,
+  "tickets closed": 3,
+  "avg income": 197215
+}, {
+  "location": "Roncesvalles",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 110.89709417173692,
+  "avg $ per ft": 846.8260456829138,
+  "tickets closed": 0,
+  "avg income": 80180
+}, {
+  "location": "Roncesvalles",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 13.819948110687307,
+  "avg $ per ft": 526.613065344893,
+  "tickets closed": 4,
+  "avg income": 97765
+}, {
+  "location": "Roncesvalles",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 26.911585465437565,
+  "avg $ per ft": 540.6261178090714,
+  "tickets closed": 2,
+  "avg income": 222614
+}, {
+  "location": "Roncesvalles",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 83.32229768071933,
+  "avg $ per ft": 1725.5891447597207,
+  "tickets closed": 5,
+  "avg income": 187166
+}, {
+  "location": "Roncesvalles",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 117.26400180381744,
+  "avg $ per ft": 13.005522193117347,
+  "tickets closed": 2,
+  "avg income": 211902
+}, {
+  "location": "Roncesvalles",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 35.67439709382838,
+  "avg $ per ft": 1996.3750993737863,
+  "tickets closed": 3,
+  "avg income": 252155
+}, {
+  "location": "South Parkdale",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 32.386827971000045,
+  "avg $ per ft": 902.1683491352503,
+  "tickets closed": 1,
+  "avg income": 211636
+}, {
+  "location": "South Parkdale",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 18.579733637165603,
+  "avg $ per ft": 1837.2260648083761,
+  "tickets closed": 2,
+  "avg income": 134988
+}, {
+  "location": "South Parkdale",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 84.3220728075038,
+  "avg $ per ft": 985.0176388525864,
+  "tickets closed": 3,
+  "avg income": 169399
+}, {
+  "location": "South Parkdale",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 18.81017998525371,
+  "avg $ per ft": 1191.0461852788974,
+  "tickets closed": 4,
+  "avg income": 114258
+}, {
+  "location": "South Parkdale",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 99.37269372591165,
+  "avg $ per ft": 332.15242414891577,
+  "tickets closed": 2,
+  "avg income": 229078
+}, {
+  "location": "South Parkdale",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 29.41808285233088,
+  "avg $ per ft": 1296.0469685464104,
+  "tickets closed": 4,
+  "avg income": 192339
+}, {
+  "location": "Dufferin Grove",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 44.66288341240928,
+  "avg $ per ft": 358.8018265622881,
+  "tickets closed": 5,
+  "avg income": 235501
+}, {
+  "location": "Dufferin Grove",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 73.4869958875126,
+  "avg $ per ft": 751.4507138618052,
+  "tickets closed": 4,
+  "avg income": 87334
+}, {
+  "location": "Dufferin Grove",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 122.86442222576119,
+  "avg $ per ft": 1053.6249813097063,
+  "tickets closed": 1,
+  "avg income": 233388
+}, {
+  "location": "Dufferin Grove",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 54.34407618893807,
+  "avg $ per ft": 1774.4788759406729,
+  "tickets closed": 5,
+  "avg income": 282886
+}, {
+  "location": "Dufferin Grove",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 103.89972769756889,
+  "avg $ per ft": 1869.0027495045822,
+  "tickets closed": 4,
+  "avg income": 169255
+}, {
+  "location": "Dufferin Grove",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 6.151917026014382,
+  "avg $ per ft": 226.1701120555175,
+  "tickets closed": 3,
+  "avg income": 80553
+}, {
+  "location": "Little Portugal",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 76.56490029208416,
+  "avg $ per ft": 636.8721083230802,
+  "tickets closed": 4,
+  "avg income": 193604
+}, {
+  "location": "Little Portugal",
+  "year": 2013,
+  "open construction tickets": 8,
+  "avg square ft": 124.70142493377097,
+  "avg $ per ft": 335.0918079132095,
+  "tickets closed": 4,
+  "avg income": 189234
+}, {
+  "location": "Little Portugal",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 123.83938182726392,
+  "avg $ per ft": 1127.742805291267,
+  "tickets closed": 5,
+  "avg income": 262253
+}, {
+  "location": "Little Portugal",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 42.45846958390859,
+  "avg $ per ft": 1783.574159222054,
+  "tickets closed": 5,
+  "avg income": 231708
+}, {
+  "location": "Little Portugal",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 98.76305349713068,
+  "avg $ per ft": 1284.2673792546332,
+  "tickets closed": 0,
+  "avg income": 110222
+}, {
+  "location": "Little Portugal",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 32.57212518860877,
+  "avg $ per ft": 1725.0106740076324,
+  "tickets closed": 2,
+  "avg income": 142228
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 33.50524421407724,
+  "avg $ per ft": 387.8203325316354,
+  "tickets closed": 3,
+  "avg income": 233635
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 17.94272200515359,
+  "avg $ per ft": 962.8201110903185,
+  "tickets closed": 5,
+  "avg income": 281752
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 2.019327323380684,
+  "avg $ per ft": 1764.077547938343,
+  "tickets closed": 0,
+  "avg income": 165017
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 31.44181375925243,
+  "avg $ per ft": 906.2441503010476,
+  "tickets closed": 1,
+  "avg income": 280095
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 59.838742868747886,
+  "avg $ per ft": 349.05771453550784,
+  "tickets closed": 3,
+  "avg income": 138412
+}, {
+  "location": "Dovercourt-Wallace Emerson-Juncti",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 8.01902650938578,
+  "avg $ per ft": 1685.849027015737,
+  "tickets closed": 5,
+  "avg income": 146611
+}, {
+  "location": "Niagara",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 1.1157122323998425,
+  "avg $ per ft": 1250.4362560355416,
+  "tickets closed": 0,
+  "avg income": 99980
+}, {
+  "location": "Niagara",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 64.92215069733373,
+  "avg $ per ft": 96.00203841975974,
+  "tickets closed": 2,
+  "avg income": 256614
+}, {
+  "location": "Niagara",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 125.70863666475745,
+  "avg $ per ft": 1272.4947832597404,
+  "tickets closed": 4,
+  "avg income": 92972
+}, {
+  "location": "Niagara",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 73.29367159286409,
+  "avg $ per ft": 871.4838767957402,
+  "tickets closed": 4,
+  "avg income": 79298
+}, {
+  "location": "Niagara",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 71.92298909767467,
+  "avg $ per ft": 1059.227696032221,
+  "tickets closed": 3,
+  "avg income": 190478
+}, {
+  "location": "Niagara",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 36.14996203744065,
+  "avg $ per ft": 1436.7658429142402,
+  "tickets closed": 3,
+  "avg income": 74241
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 65.79388972368756,
+  "avg $ per ft": 164.98724823593957,
+  "tickets closed": 5,
+  "avg income": 273037
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 111.40753437255395,
+  "avg $ per ft": 12.76792815614014,
+  "tickets closed": 3,
+  "avg income": 220765
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 46.445365536319116,
+  "avg $ per ft": 962.9403394043128,
+  "tickets closed": 1,
+  "avg income": 284858
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 68.43522263275895,
+  "avg $ per ft": 123.46441727554192,
+  "tickets closed": 1,
+  "avg income": 199309
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 118.27007733008494,
+  "avg $ per ft": 887.7163164867619,
+  "tickets closed": 3,
+  "avg income": 76171
+}, {
+  "location": "Weston-Pellam Park",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 39.35313008873212,
+  "avg $ per ft": 356.2768057569452,
+  "tickets closed": 2,
+  "avg income": 250218
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 28.96120874650791,
+  "avg $ per ft": 1599.7408464903226,
+  "tickets closed": 1,
+  "avg income": 154166
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 82.99983985159534,
+  "avg $ per ft": 192.08513129578188,
+  "tickets closed": 3,
+  "avg income": 191158
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 55.885530652483325,
+  "avg $ per ft": 832.0834136283169,
+  "tickets closed": 3,
+  "avg income": 217482
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 91.59627851813812,
+  "avg $ per ft": 214.0596012821583,
+  "tickets closed": 4,
+  "avg income": 215868
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 3.816793493648445,
+  "avg $ per ft": 601.5012238687332,
+  "tickets closed": 3,
+  "avg income": 191473
+}, {
+  "location": "Palmerston-Little Italy",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 19.350144131815853,
+  "avg $ per ft": 882.3068637910152,
+  "tickets closed": 2,
+  "avg income": 87333
+}, {
+  "location": "University",
+  "year": 2012,
+  "open construction tickets": 3,
+  "avg square ft": 92.32784070719757,
+  "avg $ per ft": 177.31083213454224,
+  "tickets closed": 4,
+  "avg income": 133552
+}, {
+  "location": "University",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 4.33080878250016,
+  "avg $ per ft": 970.0441750913416,
+  "tickets closed": 1,
+  "avg income": 113453
+}, {
+  "location": "University",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 116.26661719246327,
+  "avg $ per ft": 1121.2674403791527,
+  "tickets closed": 4,
+  "avg income": 74404
+}, {
+  "location": "University",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 28.99789671389514,
+  "avg $ per ft": 1232.2740191525272,
+  "tickets closed": 5,
+  "avg income": 103209
+}, {
+  "location": "University",
+  "year": 2016,
+  "open construction tickets": 12,
+  "avg square ft": 66.09046731828755,
+  "avg $ per ft": 707.1477014039938,
+  "tickets closed": 4,
+  "avg income": 74405
+}, {
+  "location": "University",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 63.29470877163119,
+  "avg $ per ft": 596.0913801390764,
+  "tickets closed": 1,
+  "avg income": 208163
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2012,
+  "open construction tickets": 9,
+  "avg square ft": 16.776924953065436,
+  "avg $ per ft": 1613.1605212702025,
+  "tickets closed": 3,
+  "avg income": 245823
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 22.81055507664587,
+  "avg $ per ft": 671.3947846539104,
+  "tickets closed": 3,
+  "avg income": 164669
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 35.090418160362454,
+  "avg $ per ft": 662.5364902267592,
+  "tickets closed": 0,
+  "avg income": 183838
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 91.22297310579907,
+  "avg $ per ft": 1002.9370647791307,
+  "tickets closed": 4,
+  "avg income": 260179
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 69.72047252247435,
+  "avg $ per ft": 8.900446785070404,
+  "tickets closed": 1,
+  "avg income": 210918
+}, {
+  "location": "Kensington-Chinatown",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 16.049522628785013,
+  "avg $ per ft": 1702.1856746425917,
+  "tickets closed": 5,
+  "avg income": 167941
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 17.556429971432383,
+  "avg $ per ft": 278.8867498081054,
+  "tickets closed": 2,
+  "avg income": 148837
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 81.68734599744869,
+  "avg $ per ft": 392.79340088323056,
+  "tickets closed": 4,
+  "avg income": 192772
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2014,
+  "open construction tickets": 5,
+  "avg square ft": 5.423760228911681,
+  "avg $ per ft": 1181.3236031333593,
+  "tickets closed": 3,
+  "avg income": 135753
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 109.41028221444496,
+  "avg $ per ft": 403.5573644323229,
+  "tickets closed": 5,
+  "avg income": 72305
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 11.203775342672431,
+  "avg $ per ft": 810.5551462482734,
+  "tickets closed": 0,
+  "avg income": 126357
+}, {
+  "location": "Waterfront Communities-The Island",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 82.85701664884934,
+  "avg $ per ft": 973.1521865521502,
+  "tickets closed": 1,
+  "avg income": 274797
+}, {
+  "location": "Annex",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 110.59657659578323,
+  "avg $ per ft": 1040.8992473638316,
+  "tickets closed": 3,
+  "avg income": 190808
+}, {
+  "location": "Annex",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 73.40719939876016,
+  "avg $ per ft": 956.8929203530992,
+  "tickets closed": 3,
+  "avg income": 119909
+}, {
+  "location": "Annex",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 47.85053408415937,
+  "avg $ per ft": 1126.167025504985,
+  "tickets closed": 2,
+  "avg income": 176108
+}, {
+  "location": "Annex",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 92.82154128921113,
+  "avg $ per ft": 956.9194471357027,
+  "tickets closed": 1,
+  "avg income": 192194
+}, {
+  "location": "Annex",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 116.53356727339445,
+  "avg $ per ft": 596.2214464052555,
+  "tickets closed": 5,
+  "avg income": 182516
+}, {
+  "location": "Annex",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 49.35036664899887,
+  "avg $ per ft": 1844.5970270604116,
+  "tickets closed": 2,
+  "avg income": 247229
+}, {
+  "location": "Wychwood",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 86.22058451743854,
+  "avg $ per ft": 649.3047928116351,
+  "tickets closed": 5,
+  "avg income": 105570
+}, {
+  "location": "Wychwood",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 120.88945158090935,
+  "avg $ per ft": 918.31767790889,
+  "tickets closed": 4,
+  "avg income": 179306
+}, {
+  "location": "Wychwood",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 116.5942541755839,
+  "avg $ per ft": 1723.6354893138239,
+  "tickets closed": 5,
+  "avg income": 262394
+}, {
+  "location": "Wychwood",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 30.91716266028978,
+  "avg $ per ft": 451.92319755689715,
+  "tickets closed": 1,
+  "avg income": 104156
+}, {
+  "location": "Wychwood",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 27.366661512185548,
+  "avg $ per ft": 7.924865488954547,
+  "tickets closed": 2,
+  "avg income": 146368
+}, {
+  "location": "Wychwood",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 126.49141614276691,
+  "avg $ per ft": 489.05003570200535,
+  "tickets closed": 1,
+  "avg income": 184191
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 15.141072953017531,
+  "avg $ per ft": 113.01122890378478,
+  "tickets closed": 2,
+  "avg income": 131980
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 102.21291456234644,
+  "avg $ per ft": 1118.98770032648,
+  "tickets closed": 4,
+  "avg income": 251192
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 55.68938209534988,
+  "avg $ per ft": 1331.0441768054745,
+  "tickets closed": 5,
+  "avg income": 113163
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2015,
+  "open construction tickets": 3,
+  "avg square ft": 26.97550624042915,
+  "avg $ per ft": 975.1448960300968,
+  "tickets closed": 5,
+  "avg income": 75642
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 68.74082969698034,
+  "avg $ per ft": 422.8849326574584,
+  "tickets closed": 2,
+  "avg income": 114363
+}, {
+  "location": "Corsa Italia-Davenport",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 22.87569681304262,
+  "avg $ per ft": 1419.3947993267295,
+  "tickets closed": 1,
+  "avg income": 210756
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 111.74418359749055,
+  "avg $ per ft": 17.147513691645912,
+  "tickets closed": 1,
+  "avg income": 167997
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 40.595865975096615,
+  "avg $ per ft": 1220.2895042062264,
+  "tickets closed": 3,
+  "avg income": 181024
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 20.938519757624384,
+  "avg $ per ft": 1201.5276344313793,
+  "tickets closed": 4,
+  "avg income": 150209
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 39.61453644391375,
+  "avg $ per ft": 1089.215230041068,
+  "tickets closed": 2,
+  "avg income": 107160
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 0.5544112508920407,
+  "avg $ per ft": 1753.7972305552673,
+  "tickets closed": 5,
+  "avg income": 112747
+}, {
+  "location": "Oakwood-Vaughan",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 70.67717686483137,
+  "avg $ per ft": 1221.1679439789036,
+  "tickets closed": 4,
+  "avg income": 184946
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 77.47541762087452,
+  "avg $ per ft": 1861.3290629515789,
+  "tickets closed": 3,
+  "avg income": 197191
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 30.199768032060238,
+  "avg $ per ft": 390.4043635333869,
+  "tickets closed": 4,
+  "avg income": 279814
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 98.0420965838935,
+  "avg $ per ft": 1798.0014512054381,
+  "tickets closed": 0,
+  "avg income": 254509
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2015,
+  "open construction tickets": 3,
+  "avg square ft": 85.1030105513894,
+  "avg $ per ft": 939.0106418879449,
+  "tickets closed": 0,
+  "avg income": 276981
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 110.2849449613071,
+  "avg $ per ft": 1386.5686480414086,
+  "tickets closed": 0,
+  "avg income": 94676
+}, {
+  "location": "Humewood-Cedarvale",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 80.3805670571993,
+  "avg $ per ft": 1166.8458988706973,
+  "tickets closed": 0,
+  "avg income": 245325
+}, {
+  "location": "Casa Loma",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 92.15541236742078,
+  "avg $ per ft": 1399.163718246569,
+  "tickets closed": 3,
+  "avg income": 172772
+}, {
+  "location": "Casa Loma",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 37.81293439289602,
+  "avg $ per ft": 447.2961908553652,
+  "tickets closed": 5,
+  "avg income": 111050
+}, {
+  "location": "Casa Loma",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 36.066744334388915,
+  "avg $ per ft": 667.9989989469117,
+  "tickets closed": 5,
+  "avg income": 283581
+}, {
+  "location": "Casa Loma",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 82.0410978905321,
+  "avg $ per ft": 519.8256387789606,
+  "tickets closed": 1,
+  "avg income": 137784
+}, {
+  "location": "Casa Loma",
+  "year": 2016,
+  "open construction tickets": 5,
+  "avg square ft": 6.531829815100302,
+  "avg $ per ft": 1817.5833877137504,
+  "tickets closed": 1,
+  "avg income": 278302
+}, {
+  "location": "Casa Loma",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 15.375832658772946,
+  "avg $ per ft": 29.151074054456938,
+  "tickets closed": 5,
+  "avg income": 190344
+}, {
+  "location": "Forest Hill South",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 85.85305118794524,
+  "avg $ per ft": 749.662258372682,
+  "tickets closed": 4,
+  "avg income": 283657
+}, {
+  "location": "Forest Hill South",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 63.605524278997166,
+  "avg $ per ft": 67.09232648927888,
+  "tickets closed": 0,
+  "avg income": 126264
+}, {
+  "location": "Forest Hill South",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 123.87094816763579,
+  "avg $ per ft": 702.2720445590585,
+  "tickets closed": 3,
+  "avg income": 223013
+}, {
+  "location": "Forest Hill South",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 43.62579867233028,
+  "avg $ per ft": 1368.93360791653,
+  "tickets closed": 2,
+  "avg income": 269932
+}, {
+  "location": "Forest Hill South",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 64.15299442113593,
+  "avg $ per ft": 443.91851299928106,
+  "tickets closed": 1,
+  "avg income": 103438
+}, {
+  "location": "Forest Hill South",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 48.827194902895336,
+  "avg $ per ft": 1966.852549182553,
+  "tickets closed": 0,
+  "avg income": 278853
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 37.171631423021395,
+  "avg $ per ft": 539.890623237215,
+  "tickets closed": 0,
+  "avg income": 103072
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 103.33979765501054,
+  "avg $ per ft": 819.107499695184,
+  "tickets closed": 5,
+  "avg income": 159566
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 71.64999628995493,
+  "avg $ per ft": 1541.6152463399535,
+  "tickets closed": 1,
+  "avg income": 189658
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 102.84104870912229,
+  "avg $ per ft": 544.0138726722032,
+  "tickets closed": 4,
+  "avg income": 225616
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 11.04227738854539,
+  "avg $ per ft": 703.4515594868269,
+  "tickets closed": 5,
+  "avg income": 253923
+}, {
+  "location": "Yonge-St.Clair",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 112.9612149736,
+  "avg $ per ft": 390.41480449289367,
+  "tickets closed": 5,
+  "avg income": 103982
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 120.10397831386537,
+  "avg $ per ft": 852.1134267299745,
+  "tickets closed": 1,
+  "avg income": 100126
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 112.57470388618154,
+  "avg $ per ft": 444.9803632071567,
+  "tickets closed": 5,
+  "avg income": 116690
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2014,
+  "open construction tickets": 5,
+  "avg square ft": 24.805991981423052,
+  "avg $ per ft": 32.874871999179824,
+  "tickets closed": 5,
+  "avg income": 146763
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 129.10826717908748,
+  "avg $ per ft": 591.7286556866254,
+  "tickets closed": 0,
+  "avg income": 157648
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2016,
+  "open construction tickets": 2,
+  "avg square ft": 65.75921143445933,
+  "avg $ per ft": 1412.6209904895907,
+  "tickets closed": 3,
+  "avg income": 255736
+}, {
+  "location": "Bay Street Corridor",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 97.68781160986984,
+  "avg $ per ft": 1745.9019172688631,
+  "tickets closed": 4,
+  "avg income": 239966
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 107.13108885028309,
+  "avg $ per ft": 1670.4334174343726,
+  "tickets closed": 2,
+  "avg income": 157738
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2013,
+  "open construction tickets": 11,
+  "avg square ft": 94.23037229736696,
+  "avg $ per ft": 41.816894401842,
+  "tickets closed": 3,
+  "avg income": 170205
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 8.309387765024963,
+  "avg $ per ft": 99.87888259450561,
+  "tickets closed": 0,
+  "avg income": 75019
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 35.09138527037917,
+  "avg $ per ft": 1941.2736025777992,
+  "tickets closed": 0,
+  "avg income": 120408
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 29.90152310843931,
+  "avg $ per ft": 1102.8766916593274,
+  "tickets closed": 5,
+  "avg income": 249562
+}, {
+  "location": "Rosedale-Moore Park",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 16.60495559727064,
+  "avg $ per ft": 1651.9107688051683,
+  "tickets closed": 4,
+  "avg income": 134787
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 127.14439631684898,
+  "avg $ per ft": 1148.9090298137746,
+  "tickets closed": 2,
+  "avg income": 208783
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 44.86113208028846,
+  "avg $ per ft": 1341.8938306460557,
+  "tickets closed": 5,
+  "avg income": 227852
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 49.74319244131304,
+  "avg $ per ft": 1305.3271221731686,
+  "tickets closed": 4,
+  "avg income": 148820
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 9.22338798569237,
+  "avg $ per ft": 1141.5969888844343,
+  "tickets closed": 3,
+  "avg income": 247299
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 22.23434057488481,
+  "avg $ per ft": 891.5335318828326,
+  "tickets closed": 4,
+  "avg income": 158520
+}, {
+  "location": "Church-Yonge Corridor",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 119.19044737833899,
+  "avg $ per ft": 1038.2477662568588,
+  "tickets closed": 1,
+  "avg income": 262500
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 5.955669106056182,
+  "avg $ per ft": 1303.6472577977056,
+  "tickets closed": 2,
+  "avg income": 150263
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 15.29203632028107,
+  "avg $ per ft": 879.9119151278685,
+  "tickets closed": 3,
+  "avg income": 273185
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 107.81566928405832,
+  "avg $ per ft": 1481.1200260219266,
+  "tickets closed": 3,
+  "avg income": 253484
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 48.81074492143756,
+  "avg $ per ft": 334.97245007641465,
+  "tickets closed": 1,
+  "avg income": 252016
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 53.28754845353773,
+  "avg $ per ft": 773.4726610805769,
+  "tickets closed": 3,
+  "avg income": 184239
+}, {
+  "location": "Caledonia-Fairbanks",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 71.94444303942541,
+  "avg $ per ft": 240.69353474784427,
+  "tickets closed": 1,
+  "avg income": 202660
+}, {
+  "location": "North St.James Town",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 107.59472105055433,
+  "avg $ per ft": 787.0648703287468,
+  "tickets closed": 0,
+  "avg income": 205889
+}, {
+  "location": "North St.James Town",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 121.96768478659146,
+  "avg $ per ft": 1688.6121781277213,
+  "tickets closed": 0,
+  "avg income": 76505
+}, {
+  "location": "North St.James Town",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 97.22804845169122,
+  "avg $ per ft": 1993.9285068643937,
+  "tickets closed": 2,
+  "avg income": 174077
+}, {
+  "location": "North St.James Town",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 39.07555233588,
+  "avg $ per ft": 58.54401064438508,
+  "tickets closed": 1,
+  "avg income": 187044
+}, {
+  "location": "North St.James Town",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 74.4223862446642,
+  "avg $ per ft": 1177.594536194863,
+  "tickets closed": 1,
+  "avg income": 152083
+}, {
+  "location": "North St.James Town",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 121.89110381884852,
+  "avg $ per ft": 1082.2696226244298,
+  "tickets closed": 4,
+  "avg income": 157636
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 31.641005391458727,
+  "avg $ per ft": 1437.2554551297915,
+  "tickets closed": 3,
+  "avg income": 253388
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 20.55377510867207,
+  "avg $ per ft": 838.000808099533,
+  "tickets closed": 5,
+  "avg income": 112168
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 90.07938669149087,
+  "avg $ per ft": 1325.6187183880998,
+  "tickets closed": 1,
+  "avg income": 284914
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 44.34463183015154,
+  "avg $ per ft": 381.1079047085935,
+  "tickets closed": 0,
+  "avg income": 165089
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 101.43741753010055,
+  "avg $ per ft": 1612.968119796261,
+  "tickets closed": 1,
+  "avg income": 258470
+}, {
+  "location": "Cabbagetown-South St.James Town",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 9.122209883031802,
+  "avg $ per ft": 702.6357104406283,
+  "tickets closed": 3,
+  "avg income": 162060
+}, {
+  "location": "Moss Park",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 117.28301223851703,
+  "avg $ per ft": 1957.1797930471446,
+  "tickets closed": 1,
+  "avg income": 84871
+}, {
+  "location": "Moss Park",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 14.39702403955694,
+  "avg $ per ft": 123.53487912825356,
+  "tickets closed": 5,
+  "avg income": 165974
+}, {
+  "location": "Moss Park",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 55.37721931591256,
+  "avg $ per ft": 582.4483159489548,
+  "tickets closed": 4,
+  "avg income": 216186
+}, {
+  "location": "Moss Park",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 9.902075468165389,
+  "avg $ per ft": 1016.0065734580875,
+  "tickets closed": 5,
+  "avg income": 289587
+}, {
+  "location": "Moss Park",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 32.75687037220284,
+  "avg $ per ft": 4.3484859112379315,
+  "tickets closed": 4,
+  "avg income": 253802
+}, {
+  "location": "Moss Park",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 53.08503722110588,
+  "avg $ per ft": 1715.5656867964335,
+  "tickets closed": 1,
+  "avg income": 127685
+}, {
+  "location": "Regent Park",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 85.21856267154831,
+  "avg $ per ft": 1982.869511161919,
+  "tickets closed": 5,
+  "avg income": 183521
+}, {
+  "location": "Regent Park",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 56.0252064614944,
+  "avg $ per ft": 1073.5651902297375,
+  "tickets closed": 2,
+  "avg income": 136101
+}, {
+  "location": "Regent Park",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 87.83114684725655,
+  "avg $ per ft": 1096.0539428511188,
+  "tickets closed": 2,
+  "avg income": 181733
+}, {
+  "location": "Regent Park",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 11.217011514356576,
+  "avg $ per ft": 1323.3875225979377,
+  "tickets closed": 0,
+  "avg income": 280873
+}, {
+  "location": "Regent Park",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 64.34781473498725,
+  "avg $ per ft": 1787.768448129381,
+  "tickets closed": 5,
+  "avg income": 99504
+}, {
+  "location": "Regent Park",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 75.81563551936176,
+  "avg $ per ft": 896.2107576148286,
+  "tickets closed": 4,
+  "avg income": 157803
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 101.41070358383057,
+  "avg $ per ft": 24.92294962053654,
+  "tickets closed": 4,
+  "avg income": 81591
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 86.43110126589066,
+  "avg $ per ft": 1964.8873051780101,
+  "tickets closed": 1,
+  "avg income": 222907
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 57.57511292091283,
+  "avg $ per ft": 1630.9849117953452,
+  "tickets closed": 2,
+  "avg income": 121299
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 96.51661249617268,
+  "avg $ per ft": 937.5365006684813,
+  "tickets closed": 1,
+  "avg income": 104129
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 127.62526691933671,
+  "avg $ per ft": 485.6156271151699,
+  "tickets closed": 5,
+  "avg income": 204424
+}, {
+  "location": "Playter Estates-Danforth",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 13.007056816964663,
+  "avg $ per ft": 460.4040616783134,
+  "tickets closed": 4,
+  "avg income": 93317
+}, {
+  "location": "South Riverdale",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 26.300992255006186,
+  "avg $ per ft": 1568.1123518937093,
+  "tickets closed": 1,
+  "avg income": 147984
+}, {
+  "location": "South Riverdale",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 64.12532000180327,
+  "avg $ per ft": 806.3294573426036,
+  "tickets closed": 5,
+  "avg income": 163934
+}, {
+  "location": "South Riverdale",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 66.08676751932869,
+  "avg $ per ft": 1371.5704558524012,
+  "tickets closed": 1,
+  "avg income": 146509
+}, {
+  "location": "South Riverdale",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 106.44278934209254,
+  "avg $ per ft": 993.0189971687578,
+  "tickets closed": 5,
+  "avg income": 88876
+}, {
+  "location": "South Riverdale",
+  "year": 2016,
+  "open construction tickets": 15,
+  "avg square ft": 41.45630102389529,
+  "avg $ per ft": 277.28045716083227,
+  "tickets closed": 1,
+  "avg income": 265941
+}, {
+  "location": "South Riverdale",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 102.15046207971146,
+  "avg $ per ft": 1035.8794995675578,
+  "tickets closed": 1,
+  "avg income": 192311
+}, {
+  "location": "North Riverdale",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 83.85987975946958,
+  "avg $ per ft": 1136.3359000967698,
+  "tickets closed": 4,
+  "avg income": 203182
+}, {
+  "location": "North Riverdale",
+  "year": 2013,
+  "open construction tickets": 1,
+  "avg square ft": 37.95721041850656,
+  "avg $ per ft": 1533.1250966604346,
+  "tickets closed": 0,
+  "avg income": 150976
+}, {
+  "location": "North Riverdale",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 79.3434951162008,
+  "avg $ per ft": 739.3254252906944,
+  "tickets closed": 1,
+  "avg income": 165319
+}, {
+  "location": "North Riverdale",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 63.04046127075827,
+  "avg $ per ft": 1246.6943387332858,
+  "tickets closed": 4,
+  "avg income": 278113
+}, {
+  "location": "North Riverdale",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 128.39832690357645,
+  "avg $ per ft": 1055.375480801034,
+  "tickets closed": 3,
+  "avg income": 80119
+}, {
+  "location": "North Riverdale",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 81.90427981660197,
+  "avg $ per ft": 365.4083434781148,
+  "tickets closed": 3,
+  "avg income": 261457
+}, {
+  "location": "Blake-Jones",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 84.93280619639555,
+  "avg $ per ft": 1589.3272331885337,
+  "tickets closed": 3,
+  "avg income": 144865
+}, {
+  "location": "Blake-Jones",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 47.6838356139915,
+  "avg $ per ft": 590.2935293336276,
+  "tickets closed": 0,
+  "avg income": 267193
+}, {
+  "location": "Blake-Jones",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 100.21076348430559,
+  "avg $ per ft": 675.3045890627336,
+  "tickets closed": 3,
+  "avg income": 191089
+}, {
+  "location": "Blake-Jones",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 53.864524113960925,
+  "avg $ per ft": 368.69518753217136,
+  "tickets closed": 5,
+  "avg income": 103222
+}, {
+  "location": "Blake-Jones",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 56.45581660481989,
+  "avg $ per ft": 1673.2748731111283,
+  "tickets closed": 3,
+  "avg income": 114282
+}, {
+  "location": "Blake-Jones",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 41.438902804952335,
+  "avg $ per ft": 942.9100521617306,
+  "tickets closed": 2,
+  "avg income": 132427
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 79.87679336565917,
+  "avg $ per ft": 1730.11697533555,
+  "tickets closed": 3,
+  "avg income": 277681
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 18.539543903019915,
+  "avg $ per ft": 1114.31463767302,
+  "tickets closed": 2,
+  "avg income": 86689
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 31.243542567861002,
+  "avg $ per ft": 1509.21911824184,
+  "tickets closed": 1,
+  "avg income": 278095
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 9.418010818541545,
+  "avg $ per ft": 1429.952462803933,
+  "tickets closed": 3,
+  "avg income": 183539
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 34.39117587447061,
+  "avg $ per ft": 927.1202265981526,
+  "tickets closed": 0,
+  "avg income": 106147
+}, {
+  "location": "Danforth Village - Toronto",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 11.637691230190658,
+  "avg $ per ft": 258.79450079783675,
+  "tickets closed": 5,
+  "avg income": 203203
+}, {
+  "location": "Broadview North",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 109.554040549086,
+  "avg $ per ft": 372.94007688801446,
+  "tickets closed": 0,
+  "avg income": 228221
+}, {
+  "location": "Broadview North",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 109.40265048008837,
+  "avg $ per ft": 481.50392605643066,
+  "tickets closed": 5,
+  "avg income": 284365
+}, {
+  "location": "Broadview North",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 3.347121337915385,
+  "avg $ per ft": 1606.2300107246704,
+  "tickets closed": 5,
+  "avg income": 244373
+}, {
+  "location": "Broadview North",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 22.562413264497664,
+  "avg $ per ft": 459.66812789002034,
+  "tickets closed": 4,
+  "avg income": 88339
+}, {
+  "location": "Broadview North",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 95.23887588943786,
+  "avg $ per ft": 329.71851441691257,
+  "tickets closed": 0,
+  "avg income": 258431
+}, {
+  "location": "Broadview North",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 118.63723117368906,
+  "avg $ per ft": 742.7758599460883,
+  "tickets closed": 2,
+  "avg income": 88359
+}, {
+  "location": "Old East York",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 18.61248506145669,
+  "avg $ per ft": 621.128039837576,
+  "tickets closed": 0,
+  "avg income": 105567
+}, {
+  "location": "Old East York",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 62.230694899898836,
+  "avg $ per ft": 451.7818572198393,
+  "tickets closed": 2,
+  "avg income": 213183
+}, {
+  "location": "Old East York",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 82.74465600338759,
+  "avg $ per ft": 1618.907913926025,
+  "tickets closed": 3,
+  "avg income": 269178
+}, {
+  "location": "Old East York",
+  "year": 2015,
+  "open construction tickets": 11,
+  "avg square ft": 107.7431861401258,
+  "avg $ per ft": 1944.888522148416,
+  "tickets closed": 4,
+  "avg income": 166504
+}, {
+  "location": "Old East York",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 40.89811605409173,
+  "avg $ per ft": 587.8203889317149,
+  "tickets closed": 1,
+  "avg income": 104482
+}, {
+  "location": "Old East York",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 110.53748804703434,
+  "avg $ per ft": 866.0523374839322,
+  "tickets closed": 2,
+  "avg income": 78773
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2012,
+  "open construction tickets": 15,
+  "avg square ft": 95.78268130213348,
+  "avg $ per ft": 138.62302930359084,
+  "tickets closed": 4,
+  "avg income": 282252
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 117.4508586856325,
+  "avg $ per ft": 444.43411041945444,
+  "tickets closed": 4,
+  "avg income": 272198
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 104.58976332022236,
+  "avg $ per ft": 1055.9295215247575,
+  "tickets closed": 5,
+  "avg income": 284173
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 123.40126395349161,
+  "avg $ per ft": 846.976875910308,
+  "tickets closed": 1,
+  "avg income": 216492
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 112.63532344191255,
+  "avg $ per ft": 155.16060235194385,
+  "tickets closed": 3,
+  "avg income": 210773
+}, {
+  "location": "Danforth Village - East York",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 114.66573071513614,
+  "avg $ per ft": 1023.0714384569861,
+  "tickets closed": 2,
+  "avg income": 247384
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 128.47245258570254,
+  "avg $ per ft": 209.8039955135118,
+  "tickets closed": 1,
+  "avg income": 127942
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 123.34245451826484,
+  "avg $ per ft": 31.913704725392122,
+  "tickets closed": 4,
+  "avg income": 161678
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 73.66865505125838,
+  "avg $ per ft": 1664.55343148229,
+  "tickets closed": 4,
+  "avg income": 92075
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 51.928249690317884,
+  "avg $ per ft": 1154.252438106126,
+  "tickets closed": 5,
+  "avg income": 240196
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 5.806062539566459,
+  "avg $ per ft": 1012.7866322977188,
+  "tickets closed": 2,
+  "avg income": 97316
+}, {
+  "location": "Greenwood-Coxwell",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 105.10964364124867,
+  "avg $ per ft": 1415.5650949011097,
+  "tickets closed": 2,
+  "avg income": 182322
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 93.76313396714444,
+  "avg $ per ft": 1446.4025561368971,
+  "tickets closed": 0,
+  "avg income": 70396
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2013,
+  "open construction tickets": 1,
+  "avg square ft": 104.96155005759742,
+  "avg $ per ft": 219.95087434518013,
+  "tickets closed": 4,
+  "avg income": 171628
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 121.28798599028153,
+  "avg $ per ft": 457.8436535205588,
+  "tickets closed": 1,
+  "avg income": 142343
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 56.56447642022844,
+  "avg $ per ft": 1540.2803973313937,
+  "tickets closed": 1,
+  "avg income": 123123
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 39.804227471181065,
+  "avg $ per ft": 1845.0742327150574,
+  "tickets closed": 3,
+  "avg income": 100980
+}, {
+  "location": "Woodbine Corridor",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 43.29749478747121,
+  "avg $ per ft": 152.22141246064425,
+  "tickets closed": 3,
+  "avg income": 150171
+}, {
+  "location": "Maple Leaf",
+  "year": 2012,
+  "open construction tickets": 9,
+  "avg square ft": 90.1845223798861,
+  "avg $ per ft": 232.106491405331,
+  "tickets closed": 5,
+  "avg income": 206854
+}, {
+  "location": "Maple Leaf",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 15.692541523899546,
+  "avg $ per ft": 1934.0673639406202,
+  "tickets closed": 4,
+  "avg income": 188024
+}, {
+  "location": "Maple Leaf",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 17.546031128419653,
+  "avg $ per ft": 1528.961965543197,
+  "tickets closed": 1,
+  "avg income": 196855
+}, {
+  "location": "Maple Leaf",
+  "year": 2015,
+  "open construction tickets": 3,
+  "avg square ft": 119.93771949360439,
+  "avg $ per ft": 394.5278733042381,
+  "tickets closed": 2,
+  "avg income": 184578
+}, {
+  "location": "Maple Leaf",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 70.81834912509969,
+  "avg $ per ft": 1109.86478917662,
+  "tickets closed": 1,
+  "avg income": 87560
+}, {
+  "location": "Maple Leaf",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 94.56668768396658,
+  "avg $ per ft": 69.03952014576498,
+  "tickets closed": 0,
+  "avg income": 286572
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 11.851527903879873,
+  "avg $ per ft": 345.5161345360429,
+  "tickets closed": 0,
+  "avg income": 246008
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 85.38779108341656,
+  "avg $ per ft": 1332.9509285546847,
+  "tickets closed": 0,
+  "avg income": 102856
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 82.84766716223757,
+  "avg $ per ft": 1003.1541119537275,
+  "tickets closed": 2,
+  "avg income": 214924
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 81.51605061947873,
+  "avg $ per ft": 1949.5003986137222,
+  "tickets closed": 1,
+  "avg income": 104846
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 87.34607473121105,
+  "avg $ per ft": 213.04633954054196,
+  "tickets closed": 3,
+  "avg income": 251313
+}, {
+  "location": "Beechborough-Greenbrook",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 10.269638334496697,
+  "avg $ per ft": 527.0440738327153,
+  "tickets closed": 3,
+  "avg income": 90292
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 14.005499135654793,
+  "avg $ per ft": 1101.0801054355666,
+  "tickets closed": 2,
+  "avg income": 167748
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 100.47947460148283,
+  "avg $ per ft": 1730.4353183322098,
+  "tickets closed": 4,
+  "avg income": 253325
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 44.45843016919285,
+  "avg $ per ft": 1275.5087065204864,
+  "tickets closed": 4,
+  "avg income": 132083
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 43.50857784674135,
+  "avg $ per ft": 748.2895115931115,
+  "tickets closed": 1,
+  "avg income": 239116
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 12.395416122089612,
+  "avg $ per ft": 1491.9826448381891,
+  "tickets closed": 3,
+  "avg income": 223542
+}, {
+  "location": "Keelesdale-Eglinton West",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 107.78664677290223,
+  "avg $ per ft": 1880.4930114369793,
+  "tickets closed": 0,
+  "avg income": 137278
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 64.31712743024548,
+  "avg $ per ft": 35.62797394012729,
+  "tickets closed": 5,
+  "avg income": 149581
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 22.906532851620007,
+  "avg $ per ft": 982.2924861738469,
+  "tickets closed": 4,
+  "avg income": 228040
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 78.28936138521782,
+  "avg $ per ft": 1827.5106247057176,
+  "tickets closed": 4,
+  "avg income": 79343
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 86.29458152106554,
+  "avg $ per ft": 196.75473556105527,
+  "tickets closed": 5,
+  "avg income": 81176
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 122.8386802940003,
+  "avg $ per ft": 266.46814783764563,
+  "tickets closed": 1,
+  "avg income": 210961
+}, {
+  "location": "Briar Hill-Belgravia",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 106.28825246679828,
+  "avg $ per ft": 1737.4080230594025,
+  "tickets closed": 0,
+  "avg income": 142888
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 72.66715477503041,
+  "avg $ per ft": 1812.49725260339,
+  "tickets closed": 5,
+  "avg income": 174509
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 111.90940288008385,
+  "avg $ per ft": 1577.8765954318117,
+  "tickets closed": 0,
+  "avg income": 222466
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 28.09359964693648,
+  "avg $ per ft": 375.6192965023435,
+  "tickets closed": 0,
+  "avg income": 105052
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 84.202903449775,
+  "avg $ per ft": 978.7072624152769,
+  "tickets closed": 0,
+  "avg income": 80719
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 80.71386421039254,
+  "avg $ per ft": 1266.4585386808367,
+  "tickets closed": 2,
+  "avg income": 221034
+}, {
+  "location": "Yorkdale-Glen Park",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 39.07215078209689,
+  "avg $ per ft": 584.6454485125574,
+  "tickets closed": 3,
+  "avg income": 195311
+}, {
+  "location": "Forest Hill North",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 101.55939960308744,
+  "avg $ per ft": 1871.131812615333,
+  "tickets closed": 5,
+  "avg income": 250714
+}, {
+  "location": "Forest Hill North",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 111.64552378122607,
+  "avg $ per ft": 993.3899619594802,
+  "tickets closed": 4,
+  "avg income": 81105
+}, {
+  "location": "Forest Hill North",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 118.60647768930126,
+  "avg $ per ft": 35.65838730875348,
+  "tickets closed": 4,
+  "avg income": 121525
+}, {
+  "location": "Forest Hill North",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 105.1674529319572,
+  "avg $ per ft": 599.8705688631767,
+  "tickets closed": 4,
+  "avg income": 286871
+}, {
+  "location": "Forest Hill North",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 3.193105130449807,
+  "avg $ per ft": 610.6131924495118,
+  "tickets closed": 3,
+  "avg income": 101576
+}, {
+  "location": "Forest Hill North",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 124.55313519767046,
+  "avg $ per ft": 1577.5373459295567,
+  "tickets closed": 2,
+  "avg income": 180342
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 116.70795378126391,
+  "avg $ per ft": 1991.3346034036636,
+  "tickets closed": 2,
+  "avg income": 184948
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 74.11932508364394,
+  "avg $ per ft": 1882.0631059994748,
+  "tickets closed": 4,
+  "avg income": 90578
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 10.35492456611783,
+  "avg $ per ft": 1984.3779013477972,
+  "tickets closed": 3,
+  "avg income": 119611
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2015,
+  "open construction tickets": 3,
+  "avg square ft": 9.419304282783594,
+  "avg $ per ft": 1925.9342358687045,
+  "tickets closed": 3,
+  "avg income": 258759
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 124.33521540799404,
+  "avg $ per ft": 918.2766919683468,
+  "tickets closed": 2,
+  "avg income": 287832
+}, {
+  "location": "Englemount-Lawrence",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 103.07073263675463,
+  "avg $ per ft": 1800.8027256640016,
+  "tickets closed": 4,
+  "avg income": 117892
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2012,
+  "open construction tickets": 9,
+  "avg square ft": 67.63049722973362,
+  "avg $ per ft": 235.3354610630458,
+  "tickets closed": 0,
+  "avg income": 271482
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2013,
+  "open construction tickets": 11,
+  "avg square ft": 79.72688378872846,
+  "avg $ per ft": 805.8015956633276,
+  "tickets closed": 2,
+  "avg income": 244941
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 66.24898044266101,
+  "avg $ per ft": 217.61613014050795,
+  "tickets closed": 4,
+  "avg income": 193923
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 77.15262086197747,
+  "avg $ per ft": 99.11989995029779,
+  "tickets closed": 4,
+  "avg income": 78968
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 51.12167218015148,
+  "avg $ per ft": 1856.293133659452,
+  "tickets closed": 2,
+  "avg income": 184167
+}, {
+  "location": "Bedford Park-Nortown",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 105.96647084002717,
+  "avg $ per ft": 1513.7256699340346,
+  "tickets closed": 4,
+  "avg income": 115550
+}, {
+  "location": "Lawrence Park South",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 103.73014732840733,
+  "avg $ per ft": 681.2875706999326,
+  "tickets closed": 4,
+  "avg income": 218434
+}, {
+  "location": "Lawrence Park South",
+  "year": 2013,
+  "open construction tickets": 11,
+  "avg square ft": 12.834447915958556,
+  "avg $ per ft": 799.0551460282977,
+  "tickets closed": 4,
+  "avg income": 202640
+}, {
+  "location": "Lawrence Park South",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 73.97393770376073,
+  "avg $ per ft": 1969.666824843469,
+  "tickets closed": 0,
+  "avg income": 233445
+}, {
+  "location": "Lawrence Park South",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 105.73978416945347,
+  "avg $ per ft": 984.2679189770633,
+  "tickets closed": 4,
+  "avg income": 151843
+}, {
+  "location": "Lawrence Park South",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 3.9069465659833558,
+  "avg $ per ft": 1074.596279994241,
+  "tickets closed": 2,
+  "avg income": 206806
+}, {
+  "location": "Lawrence Park South",
+  "year": 2017,
+  "open construction tickets": 5,
+  "avg square ft": 80.53206119991606,
+  "avg $ per ft": 235.05191718852214,
+  "tickets closed": 1,
+  "avg income": 181193
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 125.19123430139089,
+  "avg $ per ft": 1144.9076467758628,
+  "tickets closed": 1,
+  "avg income": 278570
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 95.1328867553835,
+  "avg $ per ft": 183.1218263943075,
+  "tickets closed": 2,
+  "avg income": 151058
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 82.7381268559588,
+  "avg $ per ft": 1707.820557432052,
+  "tickets closed": 5,
+  "avg income": 249938
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 65.00965651509793,
+  "avg $ per ft": 938.7060596652487,
+  "tickets closed": 2,
+  "avg income": 188241
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 13.3903024754941,
+  "avg $ per ft": 634.0434932979122,
+  "tickets closed": 1,
+  "avg income": 101358
+}, {
+  "location": "Yonge-Eglinton",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 26.46497740998437,
+  "avg $ per ft": 386.44504498792577,
+  "tickets closed": 2,
+  "avg income": 235649
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 6.749755643375167,
+  "avg $ per ft": 1431.2553354048553,
+  "tickets closed": 5,
+  "avg income": 136840
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2013,
+  "open construction tickets": 8,
+  "avg square ft": 6.800450366998302,
+  "avg $ per ft": 1494.500426087506,
+  "tickets closed": 1,
+  "avg income": 278486
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 94.72351234901134,
+  "avg $ per ft": 390.9080602824735,
+  "tickets closed": 5,
+  "avg income": 96893
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 81.2066300313464,
+  "avg $ per ft": 171.66168240172985,
+  "tickets closed": 1,
+  "avg income": 265499
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 40.62552342850497,
+  "avg $ per ft": 1455.1973370576045,
+  "tickets closed": 2,
+  "avg income": 259154
+}, {
+  "location": "Mount Pleasant West",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 106.10762055572243,
+  "avg $ per ft": 579.5929984723065,
+  "tickets closed": 1,
+  "avg income": 282495
+}, {
+  "location": "Lawrence Park North",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 95.17547179852187,
+  "avg $ per ft": 705.5102122657667,
+  "tickets closed": 3,
+  "avg income": 202255
+}, {
+  "location": "Lawrence Park North",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 74.19755351395183,
+  "avg $ per ft": 503.7298121064826,
+  "tickets closed": 0,
+  "avg income": 198346
+}, {
+  "location": "Lawrence Park North",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 7.567112034843691,
+  "avg $ per ft": 881.5159794218292,
+  "tickets closed": 1,
+  "avg income": 125344
+}, {
+  "location": "Lawrence Park North",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 124.67083876170878,
+  "avg $ per ft": 1888.5104510400663,
+  "tickets closed": 4,
+  "avg income": 145666
+}, {
+  "location": "Lawrence Park North",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 117.50108234507711,
+  "avg $ per ft": 1434.1272539481338,
+  "tickets closed": 0,
+  "avg income": 107376
+}, {
+  "location": "Lawrence Park North",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 69.2035263514168,
+  "avg $ per ft": 111.81429615337946,
+  "tickets closed": 2,
+  "avg income": 77902
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 121.29174174142437,
+  "avg $ per ft": 1609.3261992207094,
+  "tickets closed": 3,
+  "avg income": 207351
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 84.89850232187621,
+  "avg $ per ft": 1300.5087950566308,
+  "tickets closed": 1,
+  "avg income": 159392
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2014,
+  "open construction tickets": 5,
+  "avg square ft": 2.418201099823658,
+  "avg $ per ft": 251.13613617429854,
+  "tickets closed": 4,
+  "avg income": 148932
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 88.69438033030212,
+  "avg $ per ft": 599.5128888809464,
+  "tickets closed": 4,
+  "avg income": 201073
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 15.07648475383545,
+  "avg $ per ft": 495.9520883896591,
+  "tickets closed": 0,
+  "avg income": 274439
+}, {
+  "location": "Mount Pleasant East",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 32.30130882550006,
+  "avg $ per ft": 1865.7289606772079,
+  "tickets closed": 3,
+  "avg income": 222974
+}, {
+  "location": "Black Creek",
+  "year": 2012,
+  "open construction tickets": 1,
+  "avg square ft": 0.2382058625118877,
+  "avg $ per ft": 591.1178907886494,
+  "tickets closed": 5,
+  "avg income": 272877
+}, {
+  "location": "Black Creek",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 19.57450807575303,
+  "avg $ per ft": 974.8745434193913,
+  "tickets closed": 1,
+  "avg income": 217118
+}, {
+  "location": "Black Creek",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 99.31701358496032,
+  "avg $ per ft": 1839.1125452838667,
+  "tickets closed": 1,
+  "avg income": 243092
+}, {
+  "location": "Black Creek",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 68.8287649133733,
+  "avg $ per ft": 945.9624330613368,
+  "tickets closed": 0,
+  "avg income": 212493
+}, {
+  "location": "Black Creek",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 45.32302392459228,
+  "avg $ per ft": 1814.0136831647128,
+  "tickets closed": 2,
+  "avg income": 128649
+}, {
+  "location": "Black Creek",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 59.5013505035651,
+  "avg $ per ft": 1405.7073494395813,
+  "tickets closed": 4,
+  "avg income": 259872
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 56.370656273117575,
+  "avg $ per ft": 685.5559545479359,
+  "tickets closed": 5,
+  "avg income": 111810
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 88.28594213725994,
+  "avg $ per ft": 791.8118610866595,
+  "tickets closed": 2,
+  "avg income": 170280
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 7.398259897959224,
+  "avg $ per ft": 1468.6582954420278,
+  "tickets closed": 0,
+  "avg income": 220126
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 100.01880508540074,
+  "avg $ per ft": 1127.8991426058283,
+  "tickets closed": 2,
+  "avg income": 239536
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 22.70696483703134,
+  "avg $ per ft": 1086.7788174460352,
+  "tickets closed": 1,
+  "avg income": 263871
+}, {
+  "location": "Glenfield-Jane Heights",
+  "year": 2017,
+  "open construction tickets": 8,
+  "avg square ft": 116.69807971985499,
+  "avg $ per ft": 389.2993531249973,
+  "tickets closed": 0,
+  "avg income": 263673
+}, {
+  "location": "York University Heights",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 16.396107738917763,
+  "avg $ per ft": 726.7930625612981,
+  "tickets closed": 0,
+  "avg income": 186267
+}, {
+  "location": "York University Heights",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 62.10671578280211,
+  "avg $ per ft": 509.32696552050305,
+  "tickets closed": 4,
+  "avg income": 233014
+}, {
+  "location": "York University Heights",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 5.079954248072523,
+  "avg $ per ft": 1785.5167074906396,
+  "tickets closed": 1,
+  "avg income": 163303
+}, {
+  "location": "York University Heights",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 24.14022587853511,
+  "avg $ per ft": 1914.1030153005734,
+  "tickets closed": 4,
+  "avg income": 215818
+}, {
+  "location": "York University Heights",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 64.25074942962708,
+  "avg $ per ft": 150.96612116192665,
+  "tickets closed": 0,
+  "avg income": 105665
+}, {
+  "location": "York University Heights",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 5.860816900778014,
+  "avg $ per ft": 1695.7261451393456,
+  "tickets closed": 2,
+  "avg income": 187626
+}, {
+  "location": "Bathurst Manor",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 55.50506694894553,
+  "avg $ per ft": 746.4739083332504,
+  "tickets closed": 1,
+  "avg income": 94330
+}, {
+  "location": "Bathurst Manor",
+  "year": 2013,
+  "open construction tickets": 1,
+  "avg square ft": 6.0883152541181715,
+  "avg $ per ft": 135.92650804362606,
+  "tickets closed": 5,
+  "avg income": 94060
+}, {
+  "location": "Bathurst Manor",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 113.39820367872724,
+  "avg $ per ft": 486.4243699025332,
+  "tickets closed": 5,
+  "avg income": 188850
+}, {
+  "location": "Bathurst Manor",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 123.6035733831104,
+  "avg $ per ft": 1896.0918256198206,
+  "tickets closed": 3,
+  "avg income": 96778
+}, {
+  "location": "Bathurst Manor",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 48.6763215868745,
+  "avg $ per ft": 721.5312345456928,
+  "tickets closed": 5,
+  "avg income": 126113
+}, {
+  "location": "Bathurst Manor",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 49.90729832708338,
+  "avg $ per ft": 1892.5147451927887,
+  "tickets closed": 4,
+  "avg income": 231825
+}, {
+  "location": "Westminster-Branson",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 80.18463529709412,
+  "avg $ per ft": 255.83346415437802,
+  "tickets closed": 3,
+  "avg income": 148851
+}, {
+  "location": "Westminster-Branson",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 48.807889524423175,
+  "avg $ per ft": 983.6120275063848,
+  "tickets closed": 0,
+  "avg income": 217482
+}, {
+  "location": "Westminster-Branson",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 91.82360722055319,
+  "avg $ per ft": 1928.2482460676742,
+  "tickets closed": 5,
+  "avg income": 179547
+}, {
+  "location": "Westminster-Branson",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 70.26463373241744,
+  "avg $ per ft": 1905.641721564378,
+  "tickets closed": 3,
+  "avg income": 111053
+}, {
+  "location": "Westminster-Branson",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 78.16994159413,
+  "avg $ per ft": 1264.6665020825787,
+  "tickets closed": 3,
+  "avg income": 273488
+}, {
+  "location": "Westminster-Branson",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 92.91082646623819,
+  "avg $ per ft": 996.0976940750479,
+  "tickets closed": 4,
+  "avg income": 160360
+}, {
+  "location": "Clanton Park",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 112.16881044185554,
+  "avg $ per ft": 419.7837870541321,
+  "tickets closed": 2,
+  "avg income": 112822
+}, {
+  "location": "Clanton Park",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 20.78075816059769,
+  "avg $ per ft": 302.4069872250381,
+  "tickets closed": 2,
+  "avg income": 132860
+}, {
+  "location": "Clanton Park",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 106.59982803768037,
+  "avg $ per ft": 1716.4014476108216,
+  "tickets closed": 0,
+  "avg income": 211043
+}, {
+  "location": "Clanton Park",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 25.130144422695928,
+  "avg $ per ft": 1742.3379989513978,
+  "tickets closed": 5,
+  "avg income": 213899
+}, {
+  "location": "Clanton Park",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 66.95026621408877,
+  "avg $ per ft": 1214.6309464265166,
+  "tickets closed": 2,
+  "avg income": 215616
+}, {
+  "location": "Clanton Park",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 25.854613481636736,
+  "avg $ per ft": 493.49380341505133,
+  "tickets closed": 0,
+  "avg income": 240655
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 110.21841287528046,
+  "avg $ per ft": 917.6289883326609,
+  "tickets closed": 3,
+  "avg income": 241850
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 33.635814055449735,
+  "avg $ per ft": 1780.872787236491,
+  "tickets closed": 1,
+  "avg income": 283322
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 10.470650203488386,
+  "avg $ per ft": 1982.5386768086007,
+  "tickets closed": 1,
+  "avg income": 71215
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 94.81510980666854,
+  "avg $ per ft": 1184.98549135709,
+  "tickets closed": 4,
+  "avg income": 260231
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2016,
+  "open construction tickets": 15,
+  "avg square ft": 81.81921036416826,
+  "avg $ per ft": 608.968886752002,
+  "tickets closed": 4,
+  "avg income": 145656
+}, {
+  "location": "Lansing-Westgate",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 80.89987877773191,
+  "avg $ per ft": 1121.448602944506,
+  "tickets closed": 2,
+  "avg income": 134966
+}, {
+  "location": "Willowdale West",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 71.78878625068957,
+  "avg $ per ft": 1265.4114789777511,
+  "tickets closed": 1,
+  "avg income": 278574
+}, {
+  "location": "Willowdale West",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 27.946062928336687,
+  "avg $ per ft": 1565.5647714148472,
+  "tickets closed": 1,
+  "avg income": 255111
+}, {
+  "location": "Willowdale West",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 59.1051795067801,
+  "avg $ per ft": 1256.9475458147342,
+  "tickets closed": 1,
+  "avg income": 247804
+}, {
+  "location": "Willowdale West",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 31.757484386879604,
+  "avg $ per ft": 452.26707621619664,
+  "tickets closed": 1,
+  "avg income": 109252
+}, {
+  "location": "Willowdale West",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 49.9285584033138,
+  "avg $ per ft": 456.7454960200832,
+  "tickets closed": 3,
+  "avg income": 236550
+}, {
+  "location": "Willowdale West",
+  "year": 2017,
+  "open construction tickets": 13,
+  "avg square ft": 73.03303594579461,
+  "avg $ per ft": 352.09685627537056,
+  "tickets closed": 5,
+  "avg income": 240787
+}, {
+  "location": "Newtonbrook West",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 31.61090905241807,
+  "avg $ per ft": 105.93651269406435,
+  "tickets closed": 4,
+  "avg income": 280180
+}, {
+  "location": "Newtonbrook West",
+  "year": 2013,
+  "open construction tickets": 8,
+  "avg square ft": 91.95095963958195,
+  "avg $ per ft": 567.5826640363624,
+  "tickets closed": 1,
+  "avg income": 153186
+}, {
+  "location": "Newtonbrook West",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 30.109520164033608,
+  "avg $ per ft": 595.2423158549977,
+  "tickets closed": 3,
+  "avg income": 163825
+}, {
+  "location": "Newtonbrook West",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 7.678571239940624,
+  "avg $ per ft": 1652.5644044954975,
+  "tickets closed": 0,
+  "avg income": 162264
+}, {
+  "location": "Newtonbrook West",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 55.29080712659007,
+  "avg $ per ft": 1667.4190814978415,
+  "tickets closed": 5,
+  "avg income": 104061
+}, {
+  "location": "Newtonbrook West",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 10.069656195100528,
+  "avg $ per ft": 1450.7973615244632,
+  "tickets closed": 4,
+  "avg income": 138464
+}, {
+  "location": "Newtonbrook East",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 30.24944177419602,
+  "avg $ per ft": 1218.515899946079,
+  "tickets closed": 2,
+  "avg income": 227369
+}, {
+  "location": "Newtonbrook East",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 70.42346300894373,
+  "avg $ per ft": 218.78410629801138,
+  "tickets closed": 3,
+  "avg income": 253948
+}, {
+  "location": "Newtonbrook East",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 96.97149817497457,
+  "avg $ per ft": 1985.4680686187996,
+  "tickets closed": 4,
+  "avg income": 235350
+}, {
+  "location": "Newtonbrook East",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 62.79031477654879,
+  "avg $ per ft": 921.2893019680674,
+  "tickets closed": 3,
+  "avg income": 168920
+}, {
+  "location": "Newtonbrook East",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 69.2948413267315,
+  "avg $ per ft": 1148.9709810384616,
+  "tickets closed": 1,
+  "avg income": 254302
+}, {
+  "location": "Newtonbrook East",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 86.500359042484,
+  "avg $ per ft": 964.5335062345604,
+  "tickets closed": 1,
+  "avg income": 259624
+}, {
+  "location": "Willowdale East",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 94.90639963775425,
+  "avg $ per ft": 96.52829546591124,
+  "tickets closed": 4,
+  "avg income": 287276
+}, {
+  "location": "Willowdale East",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 36.922198546125614,
+  "avg $ per ft": 1811.5701817042284,
+  "tickets closed": 2,
+  "avg income": 167582
+}, {
+  "location": "Willowdale East",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 54.92259711462766,
+  "avg $ per ft": 1480.8091053436578,
+  "tickets closed": 3,
+  "avg income": 201107
+}, {
+  "location": "Willowdale East",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 57.827811310539104,
+  "avg $ per ft": 207.94076429129427,
+  "tickets closed": 3,
+  "avg income": 81274
+}, {
+  "location": "Willowdale East",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 11.856745133889202,
+  "avg $ per ft": 1460.6720902115692,
+  "tickets closed": 4,
+  "avg income": 122709
+}, {
+  "location": "Willowdale East",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 50.7652288418461,
+  "avg $ per ft": 1868.4182376490194,
+  "tickets closed": 1,
+  "avg income": 246786
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 30.07910639061549,
+  "avg $ per ft": 1796.3147840246982,
+  "tickets closed": 0,
+  "avg income": 228246
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 94.48286970373388,
+  "avg $ per ft": 120.94104436137965,
+  "tickets closed": 4,
+  "avg income": 117697
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2014,
+  "open construction tickets": 10,
+  "avg square ft": 9.236294352033438,
+  "avg $ per ft": 1076.2483855898217,
+  "tickets closed": 1,
+  "avg income": 261601
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 11.118225089550085,
+  "avg $ per ft": 1458.1215924857056,
+  "tickets closed": 4,
+  "avg income": 124757
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 80.69739689072215,
+  "avg $ per ft": 1733.068802324851,
+  "tickets closed": 5,
+  "avg income": 190963
+}, {
+  "location": "Bayview Woods-Steeles",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 115.20553731411569,
+  "avg $ per ft": 868.07717445772,
+  "tickets closed": 1,
+  "avg income": 230707
+}, {
+  "location": "Bayview Village",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 117.02250667513914,
+  "avg $ per ft": 1646.6348196780884,
+  "tickets closed": 4,
+  "avg income": 223672
+}, {
+  "location": "Bayview Village",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 87.30001667488705,
+  "avg $ per ft": 483.21424438355274,
+  "tickets closed": 4,
+  "avg income": 146088
+}, {
+  "location": "Bayview Village",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 66.61189182997975,
+  "avg $ per ft": 1727.5268501197068,
+  "tickets closed": 2,
+  "avg income": 122835
+}, {
+  "location": "Bayview Village",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 116.73969081595189,
+  "avg $ per ft": 413.9654351288673,
+  "tickets closed": 4,
+  "avg income": 211286
+}, {
+  "location": "Bayview Village",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 52.30522221815797,
+  "avg $ per ft": 1938.4371154015191,
+  "tickets closed": 4,
+  "avg income": 192882
+}, {
+  "location": "Bayview Village",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 50.62550288897767,
+  "avg $ per ft": 456.35970569204386,
+  "tickets closed": 1,
+  "avg income": 134118
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 123.84589747937275,
+  "avg $ per ft": 1771.5297512575419,
+  "tickets closed": 2,
+  "avg income": 248146
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2013,
+  "open construction tickets": 10,
+  "avg square ft": 3.37053066813544,
+  "avg $ per ft": 628.7738316267275,
+  "tickets closed": 4,
+  "avg income": 164714
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 34.18016918006485,
+  "avg $ per ft": 258.7744660690612,
+  "tickets closed": 3,
+  "avg income": 128329
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 78.22670242472492,
+  "avg $ per ft": 631.2134513216023,
+  "tickets closed": 4,
+  "avg income": 209742
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 14.403975177468762,
+  "avg $ per ft": 955.7292943623454,
+  "tickets closed": 4,
+  "avg income": 144018
+}, {
+  "location": "St.Andrew-Windfields",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 58.467978330758996,
+  "avg $ per ft": 1428.9581678231607,
+  "tickets closed": 4,
+  "avg income": 266352
+}, {
+  "location": "Don Valley Village",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 81.67663570112222,
+  "avg $ per ft": 794.1270075786373,
+  "tickets closed": 4,
+  "avg income": 143266
+}, {
+  "location": "Don Valley Village",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 128.96885192281403,
+  "avg $ per ft": 394.67288128356273,
+  "tickets closed": 0,
+  "avg income": 114115
+}, {
+  "location": "Don Valley Village",
+  "year": 2014,
+  "open construction tickets": 10,
+  "avg square ft": 114.63017250839734,
+  "avg $ per ft": 271.9713146914171,
+  "tickets closed": 5,
+  "avg income": 147644
+}, {
+  "location": "Don Valley Village",
+  "year": 2015,
+  "open construction tickets": 10,
+  "avg square ft": 123.22535257708103,
+  "avg $ per ft": 1096.8463335196936,
+  "tickets closed": 3,
+  "avg income": 266942
+}, {
+  "location": "Don Valley Village",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 79.74398407441176,
+  "avg $ per ft": 968.466828961816,
+  "tickets closed": 4,
+  "avg income": 183773
+}, {
+  "location": "Don Valley Village",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 105.77789812012064,
+  "avg $ per ft": 702.802046763084,
+  "tickets closed": 2,
+  "avg income": 196691
+}, {
+  "location": "Henry Farm",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 15.634181079822046,
+  "avg $ per ft": 1180.1118940302904,
+  "tickets closed": 4,
+  "avg income": 70505
+}, {
+  "location": "Henry Farm",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 40.625962779539066,
+  "avg $ per ft": 1628.6193821984082,
+  "tickets closed": 2,
+  "avg income": 89268
+}, {
+  "location": "Henry Farm",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 33.11092638942847,
+  "avg $ per ft": 703.7381437766244,
+  "tickets closed": 5,
+  "avg income": 102400
+}, {
+  "location": "Henry Farm",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 69.73484037891807,
+  "avg $ per ft": 443.9825731422433,
+  "tickets closed": 5,
+  "avg income": 174552
+}, {
+  "location": "Henry Farm",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 3.9726452511677635,
+  "avg $ per ft": 356.9501661748735,
+  "tickets closed": 5,
+  "avg income": 86577
+}, {
+  "location": "Henry Farm",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 113.78029860856641,
+  "avg $ per ft": 390.54576554572407,
+  "tickets closed": 3,
+  "avg income": 212374
+}, {
+  "location": "Pleasant View",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 83.81535938023701,
+  "avg $ per ft": 451.5965146717194,
+  "tickets closed": 0,
+  "avg income": 244131
+}, {
+  "location": "Pleasant View",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 122.96174266891708,
+  "avg $ per ft": 1044.3650164799344,
+  "tickets closed": 2,
+  "avg income": 199967
+}, {
+  "location": "Pleasant View",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 110.1387477888802,
+  "avg $ per ft": 660.4386357850912,
+  "tickets closed": 1,
+  "avg income": 150399
+}, {
+  "location": "Pleasant View",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 67.29284281323903,
+  "avg $ per ft": 218.31598085652936,
+  "tickets closed": 0,
+  "avg income": 90969
+}, {
+  "location": "Pleasant View",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 68.56189704592528,
+  "avg $ per ft": 1838.3313812694041,
+  "tickets closed": 2,
+  "avg income": 233589
+}, {
+  "location": "Pleasant View",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 29.690633855225755,
+  "avg $ per ft": 290.39468428099525,
+  "tickets closed": 1,
+  "avg income": 216703
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 60.57842716676488,
+  "avg $ per ft": 1750.2163073930167,
+  "tickets closed": 4,
+  "avg income": 192163
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 90.31269797445206,
+  "avg $ per ft": 1452.4409974348964,
+  "tickets closed": 5,
+  "avg income": 214399
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 54.468107986788105,
+  "avg $ per ft": 1892.3228105992557,
+  "tickets closed": 1,
+  "avg income": 229351
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 84.58499160583273,
+  "avg $ per ft": 375.53798031618135,
+  "tickets closed": 4,
+  "avg income": 75485
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2016,
+  "open construction tickets": 12,
+  "avg square ft": 72.02045954860883,
+  "avg $ per ft": 1881.3552050230319,
+  "tickets closed": 5,
+  "avg income": 203275
+}, {
+  "location": "Parkwoods-Donalda",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 54.55749714374573,
+  "avg $ per ft": 1696.3245739180663,
+  "tickets closed": 1,
+  "avg income": 193379
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 6.098224899471805,
+  "avg $ per ft": 1909.4295522943255,
+  "tickets closed": 3,
+  "avg income": 122080
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 17.550070632307413,
+  "avg $ per ft": 1420.5821767836742,
+  "tickets closed": 3,
+  "avg income": 85522
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 54.0005163159463,
+  "avg $ per ft": 1605.5050655653388,
+  "tickets closed": 1,
+  "avg income": 232046
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 113.86899452962646,
+  "avg $ per ft": 38.00400035280283,
+  "tickets closed": 5,
+  "avg income": 195532
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 78.64382909906911,
+  "avg $ per ft": 396.08643346704156,
+  "tickets closed": 0,
+  "avg income": 268005
+}, {
+  "location": "Tam O'Shanter-Sullivan",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 42.85568383372523,
+  "avg $ per ft": 479.3920311782611,
+  "tickets closed": 4,
+  "avg income": 205949
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 47.370336278342684,
+  "avg $ per ft": 564.0660656214984,
+  "tickets closed": 2,
+  "avg income": 254348
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 80.54720330899565,
+  "avg $ per ft": 1485.4903359297302,
+  "tickets closed": 3,
+  "avg income": 169968
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 122.41738874009947,
+  "avg $ per ft": 642.5710135762062,
+  "tickets closed": 2,
+  "avg income": 83267
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2015,
+  "open construction tickets": 4,
+  "avg square ft": 67.42699416592716,
+  "avg $ per ft": 332.960164151306,
+  "tickets closed": 2,
+  "avg income": 176426
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2016,
+  "open construction tickets": 2,
+  "avg square ft": 121.16237244996658,
+  "avg $ per ft": 898.1394548263539,
+  "tickets closed": 2,
+  "avg income": 143704
+}, {
+  "location": "Bridle Path-Sunnybrook-York Mills",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 7.009270326397985,
+  "avg $ per ft": 427.68550839019224,
+  "tickets closed": 3,
+  "avg income": 133626
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 66.93569438048468,
+  "avg $ per ft": 24.15341049998654,
+  "tickets closed": 2,
+  "avg income": 187119
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 127.73924644417671,
+  "avg $ per ft": 1529.5993590494643,
+  "tickets closed": 5,
+  "avg income": 270573
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 7.59921549668518,
+  "avg $ per ft": 4.359790838756483,
+  "tickets closed": 3,
+  "avg income": 227679
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 97.06975222332292,
+  "avg $ per ft": 45.90111523826934,
+  "tickets closed": 4,
+  "avg income": 187584
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 58.28410544292551,
+  "avg $ per ft": 758.4051230453872,
+  "tickets closed": 4,
+  "avg income": 73743
+}, {
+  "location": "Leaside-Bennington",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 92.72542216179008,
+  "avg $ per ft": 569.7107926900427,
+  "tickets closed": 2,
+  "avg income": 166859
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 125.89393820836435,
+  "avg $ per ft": 19.016242247196224,
+  "tickets closed": 5,
+  "avg income": 80309
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 37.303913171298895,
+  "avg $ per ft": 1718.2996944945023,
+  "tickets closed": 5,
+  "avg income": 150295
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 101.13586141697077,
+  "avg $ per ft": 823.335820856607,
+  "tickets closed": 3,
+  "avg income": 189219
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 124.51788665577425,
+  "avg $ per ft": 1736.7560567949793,
+  "tickets closed": 2,
+  "avg income": 133613
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2016,
+  "open construction tickets": 5,
+  "avg square ft": 79.07522829480668,
+  "avg $ per ft": 1811.0806592000677,
+  "tickets closed": 0,
+  "avg income": 138686
+}, {
+  "location": "Banbury-Don Mills",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 61.62216702132182,
+  "avg $ per ft": 305.9308626592978,
+  "tickets closed": 3,
+  "avg income": 259830
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 60.70242604422128,
+  "avg $ per ft": 1776.4993019881497,
+  "tickets closed": 4,
+  "avg income": 77750
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 34.5622535264014,
+  "avg $ per ft": 911.8447324564598,
+  "tickets closed": 0,
+  "avg income": 91026
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 118.809253662993,
+  "avg $ per ft": 23.99027417518362,
+  "tickets closed": 4,
+  "avg income": 203222
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 20.399403326559817,
+  "avg $ per ft": 1179.0986463395245,
+  "tickets closed": 3,
+  "avg income": 225465
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 74.08895372061896,
+  "avg $ per ft": 1054.5888117412442,
+  "tickets closed": 2,
+  "avg income": 287604
+}, {
+  "location": "Thorncliffe Park",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 27.01525154994568,
+  "avg $ per ft": 1727.9282819287573,
+  "tickets closed": 0,
+  "avg income": 261152
+}, {
+  "location": "Flemingdon Park",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 102.0609855533648,
+  "avg $ per ft": 12.133169948535638,
+  "tickets closed": 1,
+  "avg income": 85701
+}, {
+  "location": "Flemingdon Park",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 22.896634142674237,
+  "avg $ per ft": 603.5016184719042,
+  "tickets closed": 2,
+  "avg income": 281092
+}, {
+  "location": "Flemingdon Park",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 67.91861869762448,
+  "avg $ per ft": 1584.090967576496,
+  "tickets closed": 4,
+  "avg income": 95656
+}, {
+  "location": "Flemingdon Park",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 88.96511393889773,
+  "avg $ per ft": 506.6159909007795,
+  "tickets closed": 5,
+  "avg income": 154192
+}, {
+  "location": "Flemingdon Park",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 92.75828506083307,
+  "avg $ per ft": 922.3371374301956,
+  "tickets closed": 0,
+  "avg income": 116577
+}, {
+  "location": "Flemingdon Park",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 27.788535007269527,
+  "avg $ per ft": 1292.368520806674,
+  "tickets closed": 3,
+  "avg income": 194315
+}, {
+  "location": "Victoria Village",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 121.46504157070075,
+  "avg $ per ft": 881.5480532315145,
+  "tickets closed": 2,
+  "avg income": 155386
+}, {
+  "location": "Victoria Village",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 39.69583603926639,
+  "avg $ per ft": 1725.5368631718065,
+  "tickets closed": 1,
+  "avg income": 135353
+}, {
+  "location": "Victoria Village",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 92.29531399312212,
+  "avg $ per ft": 837.7375306684687,
+  "tickets closed": 4,
+  "avg income": 98320
+}, {
+  "location": "Victoria Village",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 44.03325198110834,
+  "avg $ per ft": 321.3964858398881,
+  "tickets closed": 3,
+  "avg income": 148370
+}, {
+  "location": "Victoria Village",
+  "year": 2016,
+  "open construction tickets": 12,
+  "avg square ft": 64.79527368614978,
+  "avg $ per ft": 1433.9533610225942,
+  "tickets closed": 5,
+  "avg income": 189890
+}, {
+  "location": "Victoria Village",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 109.77936785530416,
+  "avg $ per ft": 1024.2574801604776,
+  "tickets closed": 3,
+  "avg income": 277929
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2012,
+  "open construction tickets": 8,
+  "avg square ft": 116.95230666313168,
+  "avg $ per ft": 197.6733195029099,
+  "tickets closed": 0,
+  "avg income": 222852
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 42.02249914013721,
+  "avg $ per ft": 1078.1777138787927,
+  "tickets closed": 1,
+  "avg income": 150678
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 46.681845474006124,
+  "avg $ per ft": 858.6267719426255,
+  "tickets closed": 2,
+  "avg income": 169331
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 16.127048650342356,
+  "avg $ per ft": 611.0878996235178,
+  "tickets closed": 1,
+  "avg income": 181021
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2016,
+  "open construction tickets": 9,
+  "avg square ft": 41.76201034008915,
+  "avg $ per ft": 1990.3678023907737,
+  "tickets closed": 3,
+  "avg income": 177652
+}, {
+  "location": "O'Connor-Parkview",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 66.12936341799913,
+  "avg $ per ft": 690.9707553178858,
+  "tickets closed": 1,
+  "avg income": 91534
+}, {
+  "location": "The Beaches",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 21.489417933824587,
+  "avg $ per ft": 1674.3386363188883,
+  "tickets closed": 2,
+  "avg income": 233971
+}, {
+  "location": "The Beaches",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 42.93616616111741,
+  "avg $ per ft": 60.323143167378745,
+  "tickets closed": 1,
+  "avg income": 84249
+}, {
+  "location": "The Beaches",
+  "year": 2014,
+  "open construction tickets": 7,
+  "avg square ft": 92.03327369963698,
+  "avg $ per ft": 113.71765202230134,
+  "tickets closed": 4,
+  "avg income": 212052
+}, {
+  "location": "The Beaches",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 74.30823219649406,
+  "avg $ per ft": 445.8526061981729,
+  "tickets closed": 4,
+  "avg income": 153722
+}, {
+  "location": "The Beaches",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 114.8730187882411,
+  "avg $ per ft": 1995.4958839370543,
+  "tickets closed": 0,
+  "avg income": 122641
+}, {
+  "location": "The Beaches",
+  "year": 2017,
+  "open construction tickets": 8,
+  "avg square ft": 6.082561772019504,
+  "avg $ per ft": 252.93587138117823,
+  "tickets closed": 3,
+  "avg income": 278876
+}, {
+  "location": "East End-Danforth",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 65.32613372448992,
+  "avg $ per ft": 1352.474842823127,
+  "tickets closed": 0,
+  "avg income": 90064
+}, {
+  "location": "East End-Danforth",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 45.61938961840661,
+  "avg $ per ft": 1719.489906725355,
+  "tickets closed": 5,
+  "avg income": 232854
+}, {
+  "location": "East End-Danforth",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 23.377877014312457,
+  "avg $ per ft": 269.84188093963456,
+  "tickets closed": 4,
+  "avg income": 224260
+}, {
+  "location": "East End-Danforth",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 49.630749148863465,
+  "avg $ per ft": 853.3177874154056,
+  "tickets closed": 3,
+  "avg income": 143205
+}, {
+  "location": "East End-Danforth",
+  "year": 2016,
+  "open construction tickets": 1,
+  "avg square ft": 47.342289640496084,
+  "avg $ per ft": 411.7134894973289,
+  "tickets closed": 1,
+  "avg income": 103321
+}, {
+  "location": "East End-Danforth",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 20.88057512860208,
+  "avg $ per ft": 1028.1835176508457,
+  "tickets closed": 4,
+  "avg income": 281061
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 120.12570132077052,
+  "avg $ per ft": 733.4334167957782,
+  "tickets closed": 4,
+  "avg income": 200201
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2013,
+  "open construction tickets": 2,
+  "avg square ft": 41.68071743183798,
+  "avg $ per ft": 910.3944267939996,
+  "tickets closed": 2,
+  "avg income": 87843
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2014,
+  "open construction tickets": 8,
+  "avg square ft": 47.975930848346444,
+  "avg $ per ft": 1625.6004685576515,
+  "tickets closed": 4,
+  "avg income": 184525
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 20.49933331465404,
+  "avg $ per ft": 36.4120721186727,
+  "tickets closed": 0,
+  "avg income": 200175
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 70.8333817809637,
+  "avg $ per ft": 32.93085247365624,
+  "tickets closed": 3,
+  "avg income": 147588
+}, {
+  "location": "Woodbine-Lumsden",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 116.75793578571232,
+  "avg $ per ft": 1230.2924713471805,
+  "tickets closed": 5,
+  "avg income": 238107
+}, {
+  "location": "Crescent Town",
+  "year": 2012,
+  "open construction tickets": 15,
+  "avg square ft": 5.719258565809509,
+  "avg $ per ft": 330.45726777416814,
+  "tickets closed": 5,
+  "avg income": 184380
+}, {
+  "location": "Crescent Town",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 8.686214754903471,
+  "avg $ per ft": 199.4294234976821,
+  "tickets closed": 1,
+  "avg income": 148962
+}, {
+  "location": "Crescent Town",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 11.056905515352371,
+  "avg $ per ft": 681.5582272896903,
+  "tickets closed": 5,
+  "avg income": 182205
+}, {
+  "location": "Crescent Town",
+  "year": 2015,
+  "open construction tickets": 12,
+  "avg square ft": 20.025479828924418,
+  "avg $ per ft": 1769.4674278767695,
+  "tickets closed": 3,
+  "avg income": 128115
+}, {
+  "location": "Crescent Town",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 65.053968365048,
+  "avg $ per ft": 112.0707691715268,
+  "tickets closed": 1,
+  "avg income": 220037
+}, {
+  "location": "Crescent Town",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 82.2058949668581,
+  "avg $ per ft": 732.9921234448384,
+  "tickets closed": 3,
+  "avg income": 136103
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 8.43096402622608,
+  "avg $ per ft": 1445.8768400751376,
+  "tickets closed": 4,
+  "avg income": 163140
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 71.05383261362486,
+  "avg $ per ft": 432.5823322928646,
+  "tickets closed": 5,
+  "avg income": 184861
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 15.067822264385182,
+  "avg $ per ft": 626.19677173522,
+  "tickets closed": 4,
+  "avg income": 240464
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 69.1449312713539,
+  "avg $ per ft": 1368.2374915837527,
+  "tickets closed": 5,
+  "avg income": 157032
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 32.425721974026054,
+  "avg $ per ft": 766.6660368460072,
+  "tickets closed": 3,
+  "avg income": 247048
+}, {
+  "location": "Birchcliffe-Cliffside",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 23.30634494013762,
+  "avg $ per ft": 20.965949595724176,
+  "tickets closed": 1,
+  "avg income": 281113
+}, {
+  "location": "Oakridge",
+  "year": 2012,
+  "open construction tickets": 3,
+  "avg square ft": 15.385878112317396,
+  "avg $ per ft": 209.50021292281983,
+  "tickets closed": 0,
+  "avg income": 281176
+}, {
+  "location": "Oakridge",
+  "year": 2013,
+  "open construction tickets": 6,
+  "avg square ft": 25.268257250687665,
+  "avg $ per ft": 1197.9874732177184,
+  "tickets closed": 1,
+  "avg income": 111530
+}, {
+  "location": "Oakridge",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 35.05095122308716,
+  "avg $ per ft": 1441.195943969923,
+  "tickets closed": 3,
+  "avg income": 241271
+}, {
+  "location": "Oakridge",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 12.715073894819527,
+  "avg $ per ft": 164.5536248296311,
+  "tickets closed": 2,
+  "avg income": 285086
+}, {
+  "location": "Oakridge",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 56.59207892936082,
+  "avg $ per ft": 108.61648590758244,
+  "tickets closed": 3,
+  "avg income": 70611
+}, {
+  "location": "Oakridge",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 52.805057040886844,
+  "avg $ per ft": 1722.7459743094378,
+  "tickets closed": 2,
+  "avg income": 137228
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 117.15807263136142,
+  "avg $ per ft": 1014.7159798641869,
+  "tickets closed": 4,
+  "avg income": 128848
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 49.76565995397506,
+  "avg $ per ft": 998.1573644157346,
+  "tickets closed": 4,
+  "avg income": 80315
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 35.030719121707385,
+  "avg $ per ft": 641.698387628092,
+  "tickets closed": 0,
+  "avg income": 192290
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 15.521118376944242,
+  "avg $ per ft": 853.6145049596289,
+  "tickets closed": 3,
+  "avg income": 227334
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 36.01371955774913,
+  "avg $ per ft": 1616.100415834296,
+  "tickets closed": 1,
+  "avg income": 80482
+}, {
+  "location": "Clairlea-Birchmount",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 35.70725815403846,
+  "avg $ per ft": 386.68680371549533,
+  "tickets closed": 1,
+  "avg income": 71390
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 129.19849015413595,
+  "avg $ per ft": 863.8936455494066,
+  "tickets closed": 4,
+  "avg income": 106040
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 71.93081368878889,
+  "avg $ per ft": 1318.3139757560987,
+  "tickets closed": 0,
+  "avg income": 272504
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2014,
+  "open construction tickets": 12,
+  "avg square ft": 57.95548380263741,
+  "avg $ per ft": 1427.0062977006714,
+  "tickets closed": 3,
+  "avg income": 212046
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 24.42349807215078,
+  "avg $ per ft": 1692.217991713049,
+  "tickets closed": 1,
+  "avg income": 284479
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 64.36971564180386,
+  "avg $ per ft": 80.34599613598448,
+  "tickets closed": 0,
+  "avg income": 120995
+}, {
+  "location": "Wexford/Maryvale",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 17.154758171769405,
+  "avg $ per ft": 1785.8183868316228,
+  "tickets closed": 5,
+  "avg income": 229439
+}, {
+  "location": "Dorset Park",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 64.0112803657903,
+  "avg $ per ft": 1413.18216866343,
+  "tickets closed": 3,
+  "avg income": 245568
+}, {
+  "location": "Dorset Park",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 87.9826321073199,
+  "avg $ per ft": 535.9452038819405,
+  "tickets closed": 1,
+  "avg income": 108295
+}, {
+  "location": "Dorset Park",
+  "year": 2014,
+  "open construction tickets": 4,
+  "avg square ft": 30.13261117772155,
+  "avg $ per ft": 1197.9243925245162,
+  "tickets closed": 3,
+  "avg income": 188048
+}, {
+  "location": "Dorset Park",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 86.63778833345303,
+  "avg $ per ft": 101.78217208214835,
+  "tickets closed": 5,
+  "avg income": 192030
+}, {
+  "location": "Dorset Park",
+  "year": 2016,
+  "open construction tickets": 8,
+  "avg square ft": 103.80458109650549,
+  "avg $ per ft": 300.44703709570575,
+  "tickets closed": 0,
+  "avg income": 220734
+}, {
+  "location": "Dorset Park",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 60.37801457337832,
+  "avg $ per ft": 724.5283080692211,
+  "tickets closed": 5,
+  "avg income": 235318
+}, {
+  "location": "Ionview",
+  "year": 2012,
+  "open construction tickets": 15,
+  "avg square ft": 106.34190014206075,
+  "avg $ per ft": 475.6073619572725,
+  "tickets closed": 2,
+  "avg income": 219452
+}, {
+  "location": "Ionview",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 114.28150443798903,
+  "avg $ per ft": 653.7870051082349,
+  "tickets closed": 3,
+  "avg income": 108474
+}, {
+  "location": "Ionview",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 129.77380378747458,
+  "avg $ per ft": 1305.3903262566002,
+  "tickets closed": 1,
+  "avg income": 254997
+}, {
+  "location": "Ionview",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 34.11146047556851,
+  "avg $ per ft": 407.42714827328206,
+  "tickets closed": 1,
+  "avg income": 125124
+}, {
+  "location": "Ionview",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 109.52228088666257,
+  "avg $ per ft": 1407.6512284472653,
+  "tickets closed": 1,
+  "avg income": 180089
+}, {
+  "location": "Ionview",
+  "year": 2017,
+  "open construction tickets": 9,
+  "avg square ft": 44.97624601180538,
+  "avg $ per ft": 1431.6714644434578,
+  "tickets closed": 2,
+  "avg income": 152453
+}, {
+  "location": "Kennedy Park",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 129.27445997744994,
+  "avg $ per ft": 1389.708642899597,
+  "tickets closed": 3,
+  "avg income": 159836
+}, {
+  "location": "Kennedy Park",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 2.4421046752873643,
+  "avg $ per ft": 1353.0949177744624,
+  "tickets closed": 0,
+  "avg income": 197412
+}, {
+  "location": "Kennedy Park",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 124.92039959378207,
+  "avg $ per ft": 1048.919919662362,
+  "tickets closed": 4,
+  "avg income": 237260
+}, {
+  "location": "Kennedy Park",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 59.67725176199765,
+  "avg $ per ft": 158.0059188784766,
+  "tickets closed": 3,
+  "avg income": 127487
+}, {
+  "location": "Kennedy Park",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 62.04636435522938,
+  "avg $ per ft": 1163.5886582106689,
+  "tickets closed": 1,
+  "avg income": 244065
+}, {
+  "location": "Kennedy Park",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 10.931899304556005,
+  "avg $ per ft": 1638.105782760099,
+  "tickets closed": 0,
+  "avg income": 219508
+}, {
+  "location": "Cliffcrest",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 0.1588713231518979,
+  "avg $ per ft": 945.8013984779376,
+  "tickets closed": 3,
+  "avg income": 120897
+}, {
+  "location": "Cliffcrest",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 26.224602989694453,
+  "avg $ per ft": 1504.7112020996522,
+  "tickets closed": 1,
+  "avg income": 227773
+}, {
+  "location": "Cliffcrest",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 46.857617897955194,
+  "avg $ per ft": 34.91585214258208,
+  "tickets closed": 3,
+  "avg income": 246479
+}, {
+  "location": "Cliffcrest",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 97.19472235376031,
+  "avg $ per ft": 1665.977503813998,
+  "tickets closed": 3,
+  "avg income": 180958
+}, {
+  "location": "Cliffcrest",
+  "year": 2016,
+  "open construction tickets": 13,
+  "avg square ft": 51.27439503941289,
+  "avg $ per ft": 63.54593933256347,
+  "tickets closed": 0,
+  "avg income": 159865
+}, {
+  "location": "Cliffcrest",
+  "year": 2017,
+  "open construction tickets": 14,
+  "avg square ft": 89.98162902382825,
+  "avg $ per ft": 1840.3370358665031,
+  "tickets closed": 2,
+  "avg income": 220127
+}, {
+  "location": "Eglinton East",
+  "year": 2012,
+  "open construction tickets": 10,
+  "avg square ft": 119.22736187398485,
+  "avg $ per ft": 1947.4337514987394,
+  "tickets closed": 3,
+  "avg income": 88089
+}, {
+  "location": "Eglinton East",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 69.11712690233732,
+  "avg $ per ft": 1871.0877695804825,
+  "tickets closed": 5,
+  "avg income": 78820
+}, {
+  "location": "Eglinton East",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 18.411072768008623,
+  "avg $ per ft": 621.3195510108347,
+  "tickets closed": 5,
+  "avg income": 123665
+}, {
+  "location": "Eglinton East",
+  "year": 2015,
+  "open construction tickets": 13,
+  "avg square ft": 34.94583756690842,
+  "avg $ per ft": 243.3812159293549,
+  "tickets closed": 3,
+  "avg income": 107166
+}, {
+  "location": "Eglinton East",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 65.02758685189241,
+  "avg $ per ft": 702.5036253028599,
+  "tickets closed": 2,
+  "avg income": 161164
+}, {
+  "location": "Eglinton East",
+  "year": 2017,
+  "open construction tickets": 7,
+  "avg square ft": 109.21822098170288,
+  "avg $ per ft": 875.3722755755089,
+  "tickets closed": 0,
+  "avg income": 219539
+}, {
+  "location": "Bendale",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 125.07043155764808,
+  "avg $ per ft": 1647.717288935443,
+  "tickets closed": 4,
+  "avg income": 73366
+}, {
+  "location": "Bendale",
+  "year": 2013,
+  "open construction tickets": 13,
+  "avg square ft": 120.89120698867636,
+  "avg $ per ft": 719.8739830123282,
+  "tickets closed": 4,
+  "avg income": 186094
+}, {
+  "location": "Bendale",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 94.61143016047768,
+  "avg $ per ft": 1799.1050475877048,
+  "tickets closed": 5,
+  "avg income": 285114
+}, {
+  "location": "Bendale",
+  "year": 2015,
+  "open construction tickets": 5,
+  "avg square ft": 40.51950249217048,
+  "avg $ per ft": 791.8297199809194,
+  "tickets closed": 3,
+  "avg income": 227507
+}, {
+  "location": "Bendale",
+  "year": 2016,
+  "open construction tickets": 6,
+  "avg square ft": 98.76324550192653,
+  "avg $ per ft": 0.3731822545021135,
+  "tickets closed": 2,
+  "avg income": 143316
+}, {
+  "location": "Bendale",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 51.18593727846174,
+  "avg $ per ft": 1522.5646863447585,
+  "tickets closed": 2,
+  "avg income": 207941
+}, {
+  "location": "Scarborough Village",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 57.94298476606718,
+  "avg $ per ft": 1677.6176025649522,
+  "tickets closed": 5,
+  "avg income": 132878
+}, {
+  "location": "Scarborough Village",
+  "year": 2013,
+  "open construction tickets": 7,
+  "avg square ft": 71.55554464591421,
+  "avg $ per ft": 38.70343118916608,
+  "tickets closed": 3,
+  "avg income": 240226
+}, {
+  "location": "Scarborough Village",
+  "year": 2014,
+  "open construction tickets": 1,
+  "avg square ft": 57.27662350195523,
+  "avg $ per ft": 219.2184467088716,
+  "tickets closed": 1,
+  "avg income": 264570
+}, {
+  "location": "Scarborough Village",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 87.01440613834293,
+  "avg $ per ft": 545.5120256883272,
+  "tickets closed": 5,
+  "avg income": 93984
+}, {
+  "location": "Scarborough Village",
+  "year": 2016,
+  "open construction tickets": 10,
+  "avg square ft": 83.89635004511318,
+  "avg $ per ft": 139.58913199724242,
+  "tickets closed": 1,
+  "avg income": 235667
+}, {
+  "location": "Scarborough Village",
+  "year": 2017,
+  "open construction tickets": 8,
+  "avg square ft": 54.88854042080305,
+  "avg $ per ft": 104.49288237967203,
+  "tickets closed": 5,
+  "avg income": 257529
+}, {
+  "location": "Woburn",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 6.0009196797502184,
+  "avg $ per ft": 905.2479388290142,
+  "tickets closed": 3,
+  "avg income": 129595
+}, {
+  "location": "Woburn",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 20.31580133374265,
+  "avg $ per ft": 862.0389347054247,
+  "tickets closed": 1,
+  "avg income": 132437
+}, {
+  "location": "Woburn",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 32.67078317843168,
+  "avg $ per ft": 255.24691223818928,
+  "tickets closed": 5,
+  "avg income": 271101
+}, {
+  "location": "Woburn",
+  "year": 2015,
+  "open construction tickets": 14,
+  "avg square ft": 36.44250874234664,
+  "avg $ per ft": 1915.022083830703,
+  "tickets closed": 4,
+  "avg income": 92954
+}, {
+  "location": "Woburn",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 52.34570555921507,
+  "avg $ per ft": 1253.9810089790049,
+  "tickets closed": 4,
+  "avg income": 112610
+}, {
+  "location": "Woburn",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 48.943514825851466,
+  "avg $ per ft": 1593.2550504056467,
+  "tickets closed": 5,
+  "avg income": 82485
+}, {
+  "location": "Guildwood",
+  "year": 2012,
+  "open construction tickets": 12,
+  "avg square ft": 32.36902197816965,
+  "avg $ per ft": 556.0429720895717,
+  "tickets closed": 0,
+  "avg income": 283945
+}, {
+  "location": "Guildwood",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 60.31569089988196,
+  "avg $ per ft": 727.3477063050058,
+  "tickets closed": 0,
+  "avg income": 263391
+}, {
+  "location": "Guildwood",
+  "year": 2014,
+  "open construction tickets": 3,
+  "avg square ft": 13.533822570063045,
+  "avg $ per ft": 323.3123861051479,
+  "tickets closed": 5,
+  "avg income": 171093
+}, {
+  "location": "Guildwood",
+  "year": 2015,
+  "open construction tickets": 15,
+  "avg square ft": 3.0825327968296303,
+  "avg $ per ft": 1713.6111620994266,
+  "tickets closed": 0,
+  "avg income": 159048
+}, {
+  "location": "Guildwood",
+  "year": 2016,
+  "open construction tickets": 2,
+  "avg square ft": 58.987768456900206,
+  "avg $ per ft": 84.97926525287713,
+  "tickets closed": 5,
+  "avg income": 250663
+}, {
+  "location": "Guildwood",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 15.767184081960446,
+  "avg $ per ft": 785.1332936532103,
+  "tickets closed": 5,
+  "avg income": 113550
+}, {
+  "location": "Morningside",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 44.061975723422314,
+  "avg $ per ft": 421.9377304351184,
+  "tickets closed": 1,
+  "avg income": 92983
+}, {
+  "location": "Morningside",
+  "year": 2013,
+  "open construction tickets": 12,
+  "avg square ft": 14.369793542694852,
+  "avg $ per ft": 143.28942738615424,
+  "tickets closed": 5,
+  "avg income": 249717
+}, {
+  "location": "Morningside",
+  "year": 2014,
+  "open construction tickets": 11,
+  "avg square ft": 99.99076872647161,
+  "avg $ per ft": 1384.479491573536,
+  "tickets closed": 4,
+  "avg income": 117107
+}, {
+  "location": "Morningside",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 23.519690422728168,
+  "avg $ per ft": 1371.0365812796779,
+  "tickets closed": 2,
+  "avg income": 199068
+}, {
+  "location": "Morningside",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 80.34261415176698,
+  "avg $ per ft": 1347.450551809903,
+  "tickets closed": 0,
+  "avg income": 154905
+}, {
+  "location": "Morningside",
+  "year": 2017,
+  "open construction tickets": 4,
+  "avg square ft": 94.41399460088459,
+  "avg $ per ft": 1230.6412272326525,
+  "tickets closed": 1,
+  "avg income": 84543
+}, {
+  "location": "West Hill",
+  "year": 2012,
+  "open construction tickets": 4,
+  "avg square ft": 47.02994692161109,
+  "avg $ per ft": 853.1356432408645,
+  "tickets closed": 2,
+  "avg income": 106958
+}, {
+  "location": "West Hill",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 98.94200841364211,
+  "avg $ per ft": 722.7063332646495,
+  "tickets closed": 4,
+  "avg income": 138850
+}, {
+  "location": "West Hill",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 96.84461290874573,
+  "avg $ per ft": 918.7306404666396,
+  "tickets closed": 4,
+  "avg income": 173160
+}, {
+  "location": "West Hill",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 40.721326309916584,
+  "avg $ per ft": 507.80893982715725,
+  "tickets closed": 1,
+  "avg income": 225979
+}, {
+  "location": "West Hill",
+  "year": 2016,
+  "open construction tickets": 3,
+  "avg square ft": 37.63389456890357,
+  "avg $ per ft": 1529.905383970021,
+  "tickets closed": 5,
+  "avg income": 273395
+}, {
+  "location": "West Hill",
+  "year": 2017,
+  "open construction tickets": 10,
+  "avg square ft": 118.63360836615247,
+  "avg $ per ft": 1371.7613697651557,
+  "tickets closed": 1,
+  "avg income": 115531
+}, {
+  "location": "Rouge",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 15.185974198755403,
+  "avg $ per ft": 1174.3108016224348,
+  "tickets closed": 5,
+  "avg income": 201603
+}, {
+  "location": "Rouge",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 79.86237917871684,
+  "avg $ per ft": 974.9101803742437,
+  "tickets closed": 3,
+  "avg income": 136212
+}, {
+  "location": "Rouge",
+  "year": 2014,
+  "open construction tickets": 9,
+  "avg square ft": 115.60071589484683,
+  "avg $ per ft": 329.91467861113375,
+  "tickets closed": 3,
+  "avg income": 141430
+}, {
+  "location": "Rouge",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 117.07617123289018,
+  "avg $ per ft": 572.9501359686067,
+  "tickets closed": 0,
+  "avg income": 171228
+}, {
+  "location": "Rouge",
+  "year": 2016,
+  "open construction tickets": 12,
+  "avg square ft": 70.17011221907174,
+  "avg $ per ft": 1360.6828576528567,
+  "tickets closed": 5,
+  "avg income": 161359
+}, {
+  "location": "Rouge",
+  "year": 2017,
+  "open construction tickets": 6,
+  "avg square ft": 89.1702279939898,
+  "avg $ per ft": 1876.7809189997329,
+  "tickets closed": 3,
+  "avg income": 146483
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2012,
+  "open construction tickets": 7,
+  "avg square ft": 41.83556947023718,
+  "avg $ per ft": 853.1267547702693,
+  "tickets closed": 3,
+  "avg income": 256375
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2013,
+  "open construction tickets": 9,
+  "avg square ft": 124.88418944281783,
+  "avg $ per ft": 891.4478614159127,
+  "tickets closed": 0,
+  "avg income": 252398
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 92.40309673772362,
+  "avg $ per ft": 323.50181967000566,
+  "tickets closed": 4,
+  "avg income": 138123
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2015,
+  "open construction tickets": 11,
+  "avg square ft": 64.72450213435205,
+  "avg $ per ft": 1366.0332156333418,
+  "tickets closed": 5,
+  "avg income": 258738
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 72.6536684035522,
+  "avg $ per ft": 708.3581884717587,
+  "tickets closed": 3,
+  "avg income": 239828
+}, {
+  "location": "Centennial Scarborough",
+  "year": 2017,
+  "open construction tickets": 8,
+  "avg square ft": 3.5873180084323195,
+  "avg $ per ft": 481.9251583926183,
+  "tickets closed": 0,
+  "avg income": 266593
+}, {
+  "location": "Highland Creek",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 44.53079855915676,
+  "avg $ per ft": 1962.1248791987657,
+  "tickets closed": 5,
+  "avg income": 239506
+}, {
+  "location": "Highland Creek",
+  "year": 2013,
+  "open construction tickets": 4,
+  "avg square ft": 17.657403055926395,
+  "avg $ per ft": 805.1776938321382,
+  "tickets closed": 5,
+  "avg income": 128542
+}, {
+  "location": "Highland Creek",
+  "year": 2014,
+  "open construction tickets": 5,
+  "avg square ft": 81.4008129634796,
+  "avg $ per ft": 1364.3752349755823,
+  "tickets closed": 1,
+  "avg income": 180053
+}, {
+  "location": "Highland Creek",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 66.49918967648458,
+  "avg $ per ft": 727.3369969163706,
+  "tickets closed": 3,
+  "avg income": 207239
+}, {
+  "location": "Highland Creek",
+  "year": 2016,
+  "open construction tickets": 15,
+  "avg square ft": 49.5731798490264,
+  "avg $ per ft": 1698.0957539364765,
+  "tickets closed": 2,
+  "avg income": 135874
+}, {
+  "location": "Highland Creek",
+  "year": 2017,
+  "open construction tickets": 11,
+  "avg square ft": 83.30367477046633,
+  "avg $ per ft": 1664.5462075101468,
+  "tickets closed": 3,
+  "avg income": 74401
+}, {
+  "location": "Malvern",
+  "year": 2012,
+  "open construction tickets": 5,
+  "avg square ft": 0.626293454924961,
+  "avg $ per ft": 758.2256599863846,
+  "tickets closed": 2,
+  "avg income": 159294
+}, {
+  "location": "Malvern",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 83.60629083545103,
+  "avg $ per ft": 702.2681210451402,
+  "tickets closed": 0,
+  "avg income": 204436
+}, {
+  "location": "Malvern",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 33.92198001558481,
+  "avg $ per ft": 1556.020021078548,
+  "tickets closed": 1,
+  "avg income": 219576
+}, {
+  "location": "Malvern",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 20.45482890006196,
+  "avg $ per ft": 653.7158025064062,
+  "tickets closed": 1,
+  "avg income": 72601
+}, {
+  "location": "Malvern",
+  "year": 2016,
+  "open construction tickets": 14,
+  "avg square ft": 99.92907634204363,
+  "avg $ per ft": 205.7928311118531,
+  "tickets closed": 4,
+  "avg income": 128963
+}, {
+  "location": "Malvern",
+  "year": 2017,
+  "open construction tickets": 12,
+  "avg square ft": 24.38500248668315,
+  "avg $ per ft": 1214.747700063959,
+  "tickets closed": 5,
+  "avg income": 81809
+}, {
+  "location": "Hillcrest Village",
+  "year": 2012,
+  "open construction tickets": 13,
+  "avg square ft": 40.957726120162164,
+  "avg $ per ft": 1566.6302486818372,
+  "tickets closed": 3,
+  "avg income": 156640
+}, {
+  "location": "Hillcrest Village",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 4.182831778392938,
+  "avg $ per ft": 237.93991699014393,
+  "tickets closed": 4,
+  "avg income": 90630
+}, {
+  "location": "Hillcrest Village",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 69.06781982114828,
+  "avg $ per ft": 1137.2456884805379,
+  "tickets closed": 1,
+  "avg income": 277434
+}, {
+  "location": "Hillcrest Village",
+  "year": 2015,
+  "open construction tickets": 7,
+  "avg square ft": 54.38580663857736,
+  "avg $ per ft": 1821.0311330818038,
+  "tickets closed": 0,
+  "avg income": 250967
+}, {
+  "location": "Hillcrest Village",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 63.36445611006574,
+  "avg $ per ft": 472.4833000143567,
+  "tickets closed": 1,
+  "avg income": 276199
+}, {
+  "location": "Hillcrest Village",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 19.671581139787268,
+  "avg $ per ft": 1608.288896080341,
+  "tickets closed": 3,
+  "avg income": 278914
+}, {
+  "location": "Steeles",
+  "year": 2012,
+  "open construction tickets": 11,
+  "avg square ft": 83.04388604977554,
+  "avg $ per ft": 223.06920503353544,
+  "tickets closed": 0,
+  "avg income": 143613
+}, {
+  "location": "Steeles",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 121.73853240061935,
+  "avg $ per ft": 564.4621066662102,
+  "tickets closed": 1,
+  "avg income": 239409
+}, {
+  "location": "Steeles",
+  "year": 2014,
+  "open construction tickets": 15,
+  "avg square ft": 56.03433573295129,
+  "avg $ per ft": 836.6004546369608,
+  "tickets closed": 3,
+  "avg income": 191518
+}, {
+  "location": "Steeles",
+  "year": 2015,
+  "open construction tickets": 9,
+  "avg square ft": 110.9393963520354,
+  "avg $ per ft": 1842.911901444692,
+  "tickets closed": 0,
+  "avg income": 168160
+}, {
+  "location": "Steeles",
+  "year": 2016,
+  "open construction tickets": 11,
+  "avg square ft": 93.76230339127916,
+  "avg $ per ft": 1653.6099488601333,
+  "tickets closed": 1,
+  "avg income": 245430
+}, {
+  "location": "Steeles",
+  "year": 2017,
+  "open construction tickets": 1,
+  "avg square ft": 69.74562696328823,
+  "avg $ per ft": 1464.342628510472,
+  "tickets closed": 1,
+  "avg income": 270361
+}, {
+  "location": "L'Amoreaux",
+  "year": 2012,
+  "open construction tickets": 6,
+  "avg square ft": 58.832039886479706,
+  "avg $ per ft": 278.24489255352523,
+  "tickets closed": 2,
+  "avg income": 194441
+}, {
+  "location": "L'Amoreaux",
+  "year": 2013,
+  "open construction tickets": 15,
+  "avg square ft": 53.260988432165476,
+  "avg $ per ft": 1589.0628658070705,
+  "tickets closed": 4,
+  "avg income": 107248
+}, {
+  "location": "L'Amoreaux",
+  "year": 2014,
+  "open construction tickets": 2,
+  "avg square ft": 61.61237579060688,
+  "avg $ per ft": 1149.9362214534106,
+  "tickets closed": 4,
+  "avg income": 228277
+}, {
+  "location": "L'Amoreaux",
+  "year": 2015,
+  "open construction tickets": 1,
+  "avg square ft": 21.851587588353322,
+  "avg $ per ft": 747.1725880917057,
+  "tickets closed": 3,
+  "avg income": 236932
+}, {
+  "location": "L'Amoreaux",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 126.11051194310691,
+  "avg $ per ft": 1976.8315663394453,
+  "tickets closed": 4,
+  "avg income": 204803
+}, {
+  "location": "L'Amoreaux",
+  "year": 2017,
+  "open construction tickets": 2,
+  "avg square ft": 88.86294269106583,
+  "avg $ per ft": 1985.5348162592866,
+  "tickets closed": 3,
+  "avg income": 248158
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 38.30873084806161,
+  "avg $ per ft": 274.91796978057283,
+  "tickets closed": 2,
+  "avg income": 150888
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2013,
+  "open construction tickets": 14,
+  "avg square ft": 21.096879368091763,
+  "avg $ per ft": 987.4011303311565,
+  "tickets closed": 0,
+  "avg income": 284200
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2014,
+  "open construction tickets": 14,
+  "avg square ft": 93.01132157913918,
+  "avg $ per ft": 527.943764237224,
+  "tickets closed": 0,
+  "avg income": 148156
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2015,
+  "open construction tickets": 2,
+  "avg square ft": 53.99992034453583,
+  "avg $ per ft": 1524.1973779900143,
+  "tickets closed": 4,
+  "avg income": 120182
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2016,
+  "open construction tickets": 4,
+  "avg square ft": 76.30120056264424,
+  "avg $ per ft": 1131.0011652468277,
+  "tickets closed": 2,
+  "avg income": 84934
+}, {
+  "location": "Agincourt South-Malvern West",
+  "year": 2017,
+  "open construction tickets": 15,
+  "avg square ft": 70.37281017594692,
+  "avg $ per ft": 1503.6810298777377,
+  "tickets closed": 5,
+  "avg income": 181893
+}, {
+  "location": "Milliken",
+  "year": 2012,
+  "open construction tickets": 2,
+  "avg square ft": 59.62528639084844,
+  "avg $ per ft": 406.0479100073111,
+  "tickets closed": 0,
+  "avg income": 224639
+}, {
+  "location": "Milliken",
+  "year": 2013,
+  "open construction tickets": 3,
+  "avg square ft": 53.34136398138743,
+  "avg $ per ft": 419.16736103067365,
+  "tickets closed": 3,
+  "avg income": 260654
+}, {
+  "location": "Milliken",
+  "year": 2014,
+  "open construction tickets": 6,
+  "avg square ft": 89.12296149504913,
+  "avg $ per ft": 1521.6432194702793,
+  "tickets closed": 3,
+  "avg income": 262896
+}, {
+  "location": "Milliken",
+  "year": 2015,
+  "open construction tickets": 6,
+  "avg square ft": 62.308215174636246,
+  "avg $ per ft": 1764.0567705167239,
+  "tickets closed": 1,
+  "avg income": 83309
+}, {
+  "location": "Milliken",
+  "year": 2016,
+  "open construction tickets": 7,
+  "avg square ft": 60.64510960557334,
+  "avg $ per ft": 1773.751911005449,
+  "tickets closed": 2,
+  "avg income": 179718
+}, {
+  "location": "Milliken",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 38.537222482039205,
+  "avg $ per ft": 1895.6213519428566,
+  "tickets closed": 0,
+  "avg income": 242902
+}, {
+  "location": "Agincourt North",
+  "year": 2012,
+  "open construction tickets": 14,
+  "avg square ft": 43.60568184537329,
+  "avg $ per ft": 735.3539560769509,
+  "tickets closed": 1,
+  "avg income": 135088
+}, {
+  "location": "Agincourt North",
+  "year": 2013,
+  "open construction tickets": 5,
+  "avg square ft": 128.95948092228355,
+  "avg $ per ft": 1938.224825264277,
+  "tickets closed": 1,
+  "avg income": 256320
+}, {
+  "location": "Agincourt North",
+  "year": 2014,
+  "open construction tickets": 13,
+  "avg square ft": 31.448311415485595,
+  "avg $ per ft": 1052.0352893285806,
+  "tickets closed": 2,
+  "avg income": 116494
+}, {
+  "location": "Agincourt North",
+  "year": 2015,
+  "open construction tickets": 8,
+  "avg square ft": 121.26366653069219,
+  "avg $ per ft": 503.6827414131264,
+  "tickets closed": 0,
+  "avg income": 156527
+}, {
+  "location": "Agincourt North",
+  "year": 2016,
+  "open construction tickets": 12,
+  "avg square ft": 119.28902845526272,
+  "avg $ per ft": 217.11866879109732,
+  "tickets closed": 4,
+  "avg income": 160980
+}, {
+  "location": "Agincourt North",
+  "year": 2017,
+  "open construction tickets": 3,
+  "avg square ft": 79.33762952944791,
+  "avg $ per ft": 57.162028776877705,
+  "tickets closed": 4,
+  "avg income": 143766
+}]
