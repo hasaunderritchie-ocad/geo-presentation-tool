@@ -5,6 +5,11 @@ app.controller("homeController", function($scope, $window, scanning, pubnub, dat
   $scope.hello = "hello world";
   var val
   $scope.val;
+
+    pubnub.connect('testChannel', res => {
+      console.log("message received as "+ res);
+    })
+  
   // this starts the QR scanner.
   $scope.beginScanning = function(){
     $scope.scanning = true;
