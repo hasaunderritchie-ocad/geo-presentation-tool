@@ -28,23 +28,20 @@
   <script src="modules/main.controller.js"></script>
   <!-- CSS -->
 </head>
-<style>
+<!-- <style>
   .muted {
     color: #343439
   }
-</style>
+</style> -->
 
 <body ng-app="myApp">
 
   <div ng-controller="mainController">
+    <navbar-directive></navbar-directive>
     <div class="container-fluid">
       <div class="col-sm-12 col-sm-offset-0 col-md-offset-1 col-md-10">
         <div class="row">
-          <div class="col-md-12">
-            <h1 class="muted">
-                {{title}}
-              </h1>
-          </div>
+
         </div>
         <div class="row" style="margin-top: 80px;">
           <hr />
@@ -54,6 +51,7 @@
         </div>
       </div>
     </div>
+    <footer-directive></footer-directive>
   </div>
 
 
@@ -69,15 +67,16 @@
 
   <!-- controller -->
   <script src="modules/main.controller.js"></script>
-  <script src="modules/map.controller.js"></script>
+  <script src="modules/home/home.js"></script>
+  <script src="modules/session/session.js"></script>
+  <!-- <script src="modules/map.controller.js"></script> -->
   <!-- Modules -->
   <script src="factories/d3.factory.js"></script>
   <script src="factories/pubnub.factory.js"></script>
   <script src="factories/data.factory.js"></script>
   <!-- directive -->
+  <script src="modules/pageFeatures/directives.js"></script>
   <script src="modules/controller/controlView.directive.js"></script>
-  <script src="modules/map/mapView.directive.js"></script>
-  <script src="modules/miniview/miniview.directive.js"></script>
   <script src="modules/timeline/timelineView.directive.js"></script>
 
   <!-- CONTROLLER -->
