@@ -1,4 +1,4 @@
-app.controller("homeController", function($scope, $window, scanning, pubnub, data){
+app.controller("homeController", function($scope, $window, scanning, pubnub){
   pubnub.connect('testChannel')
   // my controller is here.
   $scope.scanning = false;
@@ -9,7 +9,7 @@ app.controller("homeController", function($scope, $window, scanning, pubnub, dat
     pubnub.connect('testChannel', res => {
       console.log("message received as "+ res);
     })
-  
+
   // this starts the QR scanner.
   $scope.beginScanning = function(){
     $scope.scanning = true;
