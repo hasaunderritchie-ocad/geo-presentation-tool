@@ -7,26 +7,119 @@
 // mapMaker
 
 app.factory("mapping", function(data) {
+
+  let drawMap = function(toronto, target, callback){
+    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFzYXVuZGVycml0Y2hpZSIsImEiOiJjajl1NmwybzM3NmQzMnhxbW0zMHpnNjg1In0.x01Xu2dBd7Amg9VMVGgGZQ';
+    var map = new mapboxgl.Map({
+      container: target,
+      style: 'mapbox://styles/mapbox/dark-v9',
+      center: [-79.3832, 43.6532],
+      zoom: 9.45
+    });
+    // map.addControl(new mapboxgl.Navigation());
+    var container = map.getCanvasContainer();
+    var svg = d3.select(container)
+      .append("svg")
+      .attr("width", 700)
+      .attr("height", 700);
+    var selection = svg.append("g");
+    var transform = d3.geoTransform({point:projectPoint});
+    var path = d3.geoPath().projection(transform);
+    console.log(toronto);
+    var g = selection.selectAll("path")
+      .data(toronto.features)
+      .enter().append("path");
+      g.attr("d", path)
+        .attr("class", "blocks")
+        .attr("id", function(d) {
+          return ("a" + d.id)
+        })
+        .style("fill", "#fff")
+        .style("fill-opacity", 0.7)
+        .style("stroke", "blue")
+        .on("click", function(d, i) {
+          d3.selectAll(".blocks")
+            .style("fill", function() {
+              return ("#fff")
+            })
+          d3.select(this)
+            .style("fill", function() {
+              return ("#f00")
+            });
+          // miniMap(i);
+          // importData.port(d);
+          // importData.return();
+          callback(d)
+        })
+        .style("fill", function(d, i) {
+          return ("#fff");
+        });
+    map.on("viewreset", update)
+    map.on("movestart", function(){
+		svg.classed("hidden", true);
+	});
+    map.on("rotate", function(){
+		svg.classed("hidden", true);
+	});
+    map.on("moveend", function(){
+		update()
+		svg.classed("hidden", false);
+	})
+
+    render()
+    function render(){
+
+    }
+
+
+
+    function projectPoint(lon, lat) {
+        var point = map.project(new mapboxgl.LngLat(lon, lat));
+  		this.stream.point(point.x, point.y);
+  	}
+  }
   /// BEHAVIOURS
   return {
+    mapFunction: function(target, callback){
+      var src="src/toronto_geoJSON.json";
+      d3.json(src, (data)=>{
+        drawMap(data, target, (response)=>{
+          if(callback){
+            callback(response);
+          }
+        });
+      })
+
+      //
+      // map.on('load', function(){
+      //
+      //   map.addSource('toronto',{
+      //     'type': 'geojson',
+      //     'data': src
+      //   });
+      //
+      //   map.addLayer({
+      //     'id': 'toronto_map',
+      //     'type': 'fill',
+      //     'source': 'toronto',
+      //     'layout': {},
+      //     'paint': {
+      //       'fill-color': '#fff',
+      //       'fill-opacity': 0.8,
+      //       'border-color': '#f00'
+      //     }
+      //   });
+      // })
+
+    },
     map: function(target, callback) {
-      d3.json("src/toronto_geoJSON.json", function(nyc) {
+      d3.json(src, function(nyc) {
         //////////////////
         // VARIABLES
         var w = 800;
         var h = 700;
         var scale = 100000;
-        ///////////////////
-        // BEHAVIOURS
-        // var drag = d3.drag()
-        //   .on('start', dragstarted)
-        //   .on('drag', dragged)
-        //   .on('end', dragended);
-        // var zoom = d3.zoom()
-        //   .scaleExtent([1, 10])
-        //   .on('zoom', zoomed);
-        //////////////////
-        // AGGREGATOR
+
         for (k in nyc.features) {
           nyc.features[k].count = 0;
           nyc.features[k].id = k;
@@ -35,8 +128,6 @@ app.factory("mapping", function(data) {
         // PARAMETERS
         var center = d3.geoCentroid(nyc);
         var projection = d3.geoMercator()
-          .center(center)
-          .scale(scale)
         var path = d3.geoPath(projection);
         var svg = d3.select('#' + target)
           .append("svg")
@@ -73,29 +164,6 @@ app.factory("mapping", function(data) {
             return ("#fff");
           });
 
-        /////////////////////
-        // // BEHAVIOUR FUNCTIONS
-        // function dragstarted(d) {
-        //   d3.select(this).raise().classed("active", true);
-        // }
-
-        // function dragged(d) {
-        //   console.log('dragged');
-        //   var x, y;
-        //   var qx = d3.event.x - 400;
-        //   var qy = d3.event.y - 350;
-        //   d3.select(this)
-        //     .attr("transform", "translate(" + (qx) + ',' + (qy) + ")")
-        //     .transition();
-        //   // .attr("x", dx)
-        //   // .attr("y", dy)
-        //   x = qx;
-        //   y = qy;
-        // }
-        //
-        // function dragended(d) {
-        //   d3.select(this).classed("active", false);
-        // }
 
         function zoomed(d) {
           selection.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
