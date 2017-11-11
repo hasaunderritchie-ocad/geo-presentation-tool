@@ -3,7 +3,7 @@ app.controller('sessionController', function($scope, $window, mapping, data, pub
   session = 'testChannel';
   pubnub.connect(session);
   mapping.mapFunction('mapview', (response)=>{
-    data = response.properties.HOOD
+    data = response
   //  data.send(data);
     pubnub.send(session, data, function(response){
       console.log(response);

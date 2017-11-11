@@ -7,109 +7,60 @@
 // mapMaker
 
 app.factory("mapping", function(data) {
-
-  let drawMap = function(toronto, target, callback){
-    mapboxgl.accessToken = 'pk.eyJ1IjoiaGFzYXVuZGVycml0Y2hpZSIsImEiOiJjajl1NmwybzM3NmQzMnhxbW0zMHpnNjg1In0.x01Xu2dBd7Amg9VMVGgGZQ';
-    var map = new mapboxgl.Map({
-      container: target,
-      style: 'mapbox://styles/mapbox/dark-v9',
-      center: [-79.3832, 43.6532],
-      zoom: 9.45
-    });
-    // map.addControl(new mapboxgl.Navigation());
-    var container = map.getCanvasContainer();
-    var svg = d3.select(container)
-      .append("svg")
-      .attr("width", 700)
-      .attr("height", 700);
-    var selection = svg.append("g");
-    var transform = d3.geoTransform({point:projectPoint});
-    var path = d3.geoPath().projection(transform);
-    console.log(toronto);
-    var g = selection.selectAll("path")
-      .data(toronto.features)
-      .enter().append("path");
-      g.attr("d", path)
-        .attr("class", "blocks")
-        .attr("id", function(d) {
-          return ("a" + d.id)
-        })
-        .style("fill", "#fff")
-        .style("fill-opacity", 0.7)
-        .style("stroke", "blue")
-        .on("click", function(d, i) {
-          d3.selectAll(".blocks")
-            .style("fill", function() {
-              return ("#fff")
-            })
-          d3.select(this)
-            .style("fill", function() {
-              return ("#f00")
-            });
-          // miniMap(i);
-          // importData.port(d);
-          // importData.return();
-          callback(d)
-        })
-        .style("fill", function(d, i) {
-          return ("#fff");
-        });
-    map.on("viewreset", update)
-    map.on("movestart", function(){
-		svg.classed("hidden", true);
-	});
-    map.on("rotate", function(){
-		svg.classed("hidden", true);
-	});
-    map.on("moveend", function(){
-		update()
-		svg.classed("hidden", false);
-	})
-
-    render()
-    function render(){
-
-    }
-
-
-
-    function projectPoint(lon, lat) {
-        var point = map.project(new mapboxgl.LngLat(lon, lat));
-  		this.stream.point(point.x, point.y);
-  	}
-  }
+// stopped using the d3 for geo projection. yay!
   /// BEHAVIOURS
   return {
     mapFunction: function(target, callback){
       var src="src/toronto_geoJSON.json";
-      d3.json(src, (data)=>{
-        drawMap(data, target, (response)=>{
-          if(callback){
-            callback(response);
+      mapboxgl.accessToken = 'pk.eyJ1IjoiaGFzYXVuZGVycml0Y2hpZSIsImEiOiJjajl1NmwybzM3NmQzMnhxbW0zMHpnNjg1In0.x01Xu2dBd7Amg9VMVGgGZQ';
+      var map = new mapboxgl.Map({
+        container: target,
+        style: 'mapbox://styles/mapbox/dark-v9',
+        center: [-79.3832, 43.6532],
+        zoom: 9.45
+      });
+
+      map.on('load', function(){
+
+        map.addSource('toronto',{
+          'type': 'geojson',
+          'data': src,
+          'onEachFeature': onEachFeature
+        });
+        function onEachFeature(feature, layer) {
+     layer.on({
+         mousemove: mousemove,
+         mouseout: mouseout,
+         click: zoomToFeature
+     });
+ }
+
+        map.addLayer({
+          'id': 'toronto_map',
+          'type': 'fill',
+          'source': 'toronto',
+          'layout': {},
+          'paint': {
+            'fill-color': '#fff',
+            'fill-opacity': 0.8
           }
         });
       })
-
-      //
-      // map.on('load', function(){
-      //
-      //   map.addSource('toronto',{
-      //     'type': 'geojson',
-      //     'data': src
-      //   });
-      //
-      //   map.addLayer({
-      //     'id': 'toronto_map',
-      //     'type': 'fill',
-      //     'source': 'toronto',
-      //     'layout': {},
-      //     'paint': {
-      //       'fill-color': '#fff',
-      //       'fill-opacity': 0.8,
-      //       'border-color': '#f00'
-      //     }
-      //   });
-      // })
+      map.on('click', 'toronto_map', function (e) {
+        message = e.features[0].properties.HOOD;
+        layer = e.target;
+        console.log(layer);
+        e.target.setStyle({
+          weight: 3,
+          opacity: 0.3,
+          fillOpacity: 0.9
+        })
+        callback(message)
+       new mapboxgl.Popup()
+           .setLngLat(e.lngLat)
+           .setHTML(e.features[0].properties.HOOD)
+           .addTo(map);
+   });
 
     },
     map: function(target, callback) {
