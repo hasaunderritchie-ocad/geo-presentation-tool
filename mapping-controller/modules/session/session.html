@@ -1,4 +1,9 @@
 <style>
+.button{
+  margin-top: -60px;
+
+}
+
   #mapview{
     background-color: #22324c;
     height: 600px;
@@ -7,9 +12,21 @@
   }
 
 </style>
+
+<div class="button">
+  <button class="btn btn-primary" ng-click="startScan()">Open QR Code</button>
+  <h3>Viewers, please go to <strong>tinyurl.com/hritchie-dashboard</strong></h3>
+  <div ng-if="scanning" class="row">
+    <div class="col-sm-10">
+      <img ng-src="https://api.qrserver.com/v1/create-qr-code/?size=500x500&data={{newSession}}" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+
+</div>
   <div>
     <div id="mapview">
 
     </div>
+    show something
 
   </div>
