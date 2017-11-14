@@ -9,7 +9,9 @@ app.controller("homeController", function($scope, $window, scanning, pubnub){
     pubnub.connect('testChannel', res => {
       console.log("message received as "+ res);
     })
-
+  $scope.quickSolution = function(){
+    $window.location.href="#!dashboard";
+  }
   // this starts the QR scanner.
   $scope.beginScanning = function(){
     $scope.scanning = true;

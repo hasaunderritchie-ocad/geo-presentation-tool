@@ -24,16 +24,8 @@ app.factory("mapping", function(data) {
 
         map.addSource('toronto',{
           'type': 'geojson',
-          'data': src,
-          'onEachFeature': onEachFeature
+          'data': src
         });
-        function onEachFeature(feature, layer) {
-     layer.on({
-         mousemove: mousemove,
-         mouseout: mouseout,
-         click: zoomToFeature
-     });
- }
 
         map.addLayer({
           'id': 'toronto_map',
