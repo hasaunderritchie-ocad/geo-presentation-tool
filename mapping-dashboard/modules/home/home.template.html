@@ -1,27 +1,48 @@
-Home Works!
-<style>
 
+<style>
+  .homeHeader{
+    background: #0B94FF;
+    border-radius: 8px;
+  }
+  .bodyHeader{
+    margin-top: 10px;
+    background: #C5CBCF;
+    border-radius: 8px;
+  }
+  .text-white{
+    color: white;
+  }
 </style>
-<div class="row">
-  <div ng-if="!scanning" class="col-md-12">
-    <h3>Session About To begin   {{ hello }}</h3>
+<div class="row homeHeader" layout-padding>
+  <div class="headerimage col-md-3">
+    <img src="assets/hook.png" />
+  </div>
+  <div ng-if="!scanning" class="col-md-6">
+    <h1 class="text-white">Welcome to Hook!</h1>
     <br />
     <p>
-      Prepare to scan the qr code, then click "Begin Scanning"
+      This is the dashboard portion of Hook. <br /> If you were looking for the presentation portion, please click <a href="https://webspace.ocad.ca/~3152512/geo-presentation/mapping-controller/index.html">here</a>
     </p>
-    <button class="btn" ng-click="beginScanning()">Begin Scanning</button>
-  </div>
-  <button ng-click="quickSolution()">Enter</button>
 
-  <div class="col-md-12">
-    <video id="viewFinder">
+    <a href="#!scan">
+      <button class="btn">Connect to New Session</button>
+    </a>
 
-    </video>
   </div>
-  <div class="well">
+
+</div>
+<div class="row bodyHeader" layout-padding>
+
+  <div ng-if="!scanning" class="col-xs-offset-0 col-xs-12">
+    <h3 class="text-white">What is Hook? </h3>
+    <br />
     <p>
-      {{ val }}
+      Hook is a tool that was developed by Hugh Ritchie. It connects users and interested people through data.
     </p>
-    <button ng-click="checkVal()">Check Val</button>
+    <p>
+      The data that is controlled through hook really depends on whomever is hosting a session, or who has brought you here today for their presentation. It can be anything from analytics from a running piece of software, to a map of data about urban planning.
+    </p>
+
   </div>
+
 </div>

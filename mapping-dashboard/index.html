@@ -31,8 +31,13 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
 </head>
+<style>
+  body{
+    margin-top: 10px;
+  }
+</style>
 <body ng-app="myApp">
-<navbar-directive></navbar-directive>
+<!-- <navbar-directive></navbar-directive> -->
 <div ng-controller="mainController" class="container-fluid text-center">
   <div ng-if="!state" class="col-xs-12">
     <ng-view></ng-view>
@@ -47,9 +52,9 @@
 </div>
 
 
-<footer class="container-fluid text-center">
+<!-- <footer class="container-fluid text-center">
   <p>Footer Text</p>
-</footer>
+</footer> -->
   <!-- components -->
   <!-- routes -->
   <script src="modules/home/home.controller.js"></script>

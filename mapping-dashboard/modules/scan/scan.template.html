@@ -1,0 +1,66 @@
+
+<style>
+  .homeHeader{
+    background: #0B94FF;
+    border-radius: 8px;
+  }
+  .text-white{
+    color: white;
+  }
+</style>
+<div  ng-if="!scanning" class="row homeHeader" layout-padding>
+  <div class="headerimage col-md-3">
+    <img src="assets/hook.png" />
+  </div>
+  <div class="col-md-6">
+    <h3 class="text-white text-center">This is the beginning of a new session. Please follow the steps provided</h3>
+    <br />
+
+    <!-- <button class="btn" href="#!scan" ng-click="beginScanning()">Begin Scanning</button>
+    <button class="btn" href="#!dash"  ng-click="quickSolution()">Enter</button> -->
+    <div class="row">
+      <button class="btn" href="#!scan" ng-click="beginScanning()">Begin Scanning</button>
+      <button class="btn" href="#!dash"  ng-click="quickSolution()">Enter</button>
+      <ol>
+        <li class="text-white">
+          <h5>
+            Point your phone camera at the QR code on the screen.
+          </h5>
+          If there is none, please contact the presenter.
+        </li>
+        <li class="text-white">
+          <h5>
+            Click the 'Begin Scanning Button'.
+          </h5>
+          A video window will open.
+        </li>
+        <li class="text-white">
+          <h5>
+            Aim your camera so the QR code is in the center of the video.
+          </h5>
+        </li>
+        <li class="text-white">
+          <h5>
+            If the scanner doesnt work, reload this page and try again.
+          </h5>
+        </li>
+      </ol>
+      <p class="text-white">
+        You should be redirected to a new page immediately.
+        <br />
+        if that's too much, just press enter.
+      </p>
+      <br />
+      <p>
+        This is the dashboard portion of Hook. <br /> If you were looking for the presentation portion, please click <a href="https://webspace.ocad.ca/~3152512/geo-presentation/mapping-controller/index.html">here</a>
+      </p>
+    </div>
+
+  </div>
+
+</div>
+<div class="col-md-12">
+  <video id="viewFinder">
+
+  </video>
+</div>
