@@ -1,6 +1,6 @@
 app.controller('dashController', function($scope, data, pubnub, d3Load, d3Chart) {
   // my controller.
-  $scope.location = 'Trinity-Bellwoods'
+  $scope.location = 'No Neighbourhood Selected'
   $scope.dataPoints = [{
     'id': 'properties_sold',
     'name': 'Properties Sold'
@@ -39,6 +39,9 @@ app.controller('dashController', function($scope, data, pubnub, d3Load, d3Chart)
       if (message) {
         console.log(message.text[0]);
         d3Load.csv(src, res => {
+          $scope.$apply(function(){
+            $scope.location = message.text[0];
+          });
           for(i in $scope.dataPoints){
             let filter = {
               'location'  : message.text[0],
